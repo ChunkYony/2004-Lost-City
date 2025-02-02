@@ -127754,11 +127754,11 @@
 						"X Marks the Spot": "step"
 					},
 					"Shop": {
-						"Diango's Toy Store": true,
-						"Draynor Seed Market": true,
-						"Forestry Shop": true,
+						"Diango's Toy Store": false,
+						"Draynor Seed Market": false,
+						"Forestry Shop": false,
 						"Ned's Handmade Rope (100% Wool - not yak, honest!)": true,
-						"Wine Shop.": true
+						"Wine Shop.": false
 					},
 					"Spawn": {
 						"Cheese": 1,
