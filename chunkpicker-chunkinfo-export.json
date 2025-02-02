@@ -22161,14 +22161,6 @@
 				"Priority": 3,
 				"Not F2P": true
 			},
-			"Cast ~|teleport block|~ from a spell sack": {
-				"Category": ["Spells", "Combat and Teleport Spells", "PVP-Only Spells"],
-				"Items": ["Blighted teleport spell sack*"],
-				"Level": 85,
-				"Chunks": ["WildernessChunks[+]"],
-				"Primary": true,
-				"Priority": 94
-			},
 			"Cast ~|teleport to house|~": {
 				"Category": ["Spells", "Combat and Teleport Spells"],
 				"Chunks": ["Player-owned house"],
@@ -28370,14 +28362,6 @@
 				"Chunks": ["10029"],
 				"Output": "Bronze axe",
 				"Not F2P": true
-			},
-			"Grab a bronze axe from the Seers' Village Friendly Forester's logs*": {
-				"Chunks": ["10806-1"],
-				"Output": "Bronze axe"
-			},
-			"Grab a bronze axe from the Draynor Village Friendly Forester's logs*": {
-				"Chunks": ["12338-1"],
-				"Output": "Bronze axe"
 			},
 			"Grab a bronze axe from Fred the Farmer's stump*": {
 				"Chunks": ["12595"],
