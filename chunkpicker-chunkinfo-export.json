@@ -22161,13 +22161,6 @@
 				"Priority": 3,
 				"Not F2P": true
 			},
-			"Cast ~|teleport block|~": {
-				"Category": ["Spells", "Combat and Teleport Spells", "PVP-Only Spells"],
-				"Items": ["Chaos rune*", "Death rune*", "Law rune*"],
-				"Level": 85,
-				"Primary": true,
-				"Priority": 2
-			},
 			"Cast ~|teleport block|~ from a spell sack": {
 				"Category": ["Spells", "Combat and Teleport Spells", "PVP-Only Spells"],
 				"Items": ["Blighted teleport spell sack*"],
@@ -96619,12 +96612,6 @@
 				},
 				"BaseQuest": "Plague City",
 				"Chunks": ["10292"],
-				"Not F2P": true
-			},
-			"~|A Porcine of Interest|~ 1": {
-				"BaseQuest": "A Porcine of Interest",
-				"Description": "Read the notice board in Draynor Village",
-				"Chunks": ["12338-1"],
 				"Not F2P": true
 			},
 			"~|A Porcine of Interest|~ 2": {
