@@ -39988,7 +39988,7 @@
 				"Not F2P": true
 			},
 			"Draynor Sewers": {
-				"UnlocksArea": true
+				"UnlocksArea": false
 			},
 			"Dwarven Mine": {
 				"UnlocksArea": true

@@ -44,13 +44,13 @@ let chunkInfo = {};                                                             
 let infoLockedId = -1;                                                          // Id of chunk locked for info
 let userName = '';                                                              // Runescape Username of user
 
-let ratio = 4992 / 8832;                                                        // Image ratio
+let ratio = 2432 / 2560;                                                        // Image ratio
 let movedNum = 0;                                                               // Amount of times mouse is moved while dragging
 let selectedNum = 1;                                                            // Current index of selected chunks
 let unlockedChunks = 0;                                                         // Number of unlocked chunks
 let selectedChunks = 0;                                                         // Number of selected chunks
-let startingIndex = 4160;                                                       // Index to start chunk numbering at (based on ChunkLite numbers)
-let skip = 210;                                                                 // Number of indices to skip between columns for chunk numbering
+let startingIndex = 9022;                                                       // Index to start chunk numbering at (based on ChunkLite numbers)
+let skip = 236;                                                                 // Number of indices to skip between columns for chunk numbering
 
 let prevValueMid = '';                                                          // Previous value of map id at login
 let prevValuePinNew = '';                                                       // Previous value of pin at signup
