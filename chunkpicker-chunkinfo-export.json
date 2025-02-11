@@ -264574,7 +264574,7 @@
 			}
 		},
 		"Iron mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 9,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -264593,7 +264593,7 @@
 			"requirements": {}
 		},
 		"Bronze mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 6,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -264612,7 +264612,7 @@
 			"requirements": {}
 		},
 		"Steel mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 13,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -264633,7 +264633,7 @@
 			}
 		},
 		"Black mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 16,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -264654,7 +264654,7 @@
 			}
 		},
 		"Mithril mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 18,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -264675,7 +264675,7 @@
 			}
 		},
 		"Adamant mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 25,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -264696,7 +264696,7 @@
 			}
 		},
 		"Rune mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 39,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -264717,7 +264717,7 @@
 			}
 		},
 		"Dragon mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 60,
 			"attack_magic": 0,
 			"attack_ranged": 0,
@@ -266916,7 +266916,7 @@
 			}
 		},
 		"White mace": {
-			"attack_speed": 4,
+			"attack_speed": 5,
 			"attack_crush": 16,
 			"attack_magic": 0,
 			"attack_ranged": 0,
