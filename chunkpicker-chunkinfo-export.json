@@ -128748,9 +128748,6 @@
 						"12693": true
 					},
 					"Monster": {
-						"Big frog#Level 10": 14,
-						"Frog": 28,
-						"Giant frog#Level 13": 5,
 						"Giant rat": 9
 					},
 					"NPC": {
@@ -129926,9 +129923,6 @@
 						"Lumbridge & Draynor": "MD2"
 					},
 					"Monster": {
-						"Big frog#Level 10": 15,
-						"Frog": 17,
-						"Giant frog#Level 13": 3,
 						"Giant rat": 14
 					},
 					"NPC": {
