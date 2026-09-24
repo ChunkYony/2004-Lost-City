@@ -1260,25 +1260,12 @@
 				"Primary": true,
 				"Priority": 4
 			},
-			"Access the ~|Al Kharid Rooftop Course|~": {
-				"Chunks": ["13105-1"],
-				"Level": 20,
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
-			},
 			"Access the ~|Ape Atoll Agility Course|~": {
 				"Chunks": ["11050-3"],
 				"Level": 48,
 				"Output": "Mark of grace",
 				"Primary": true,
 				"Priority": 1
-			},
-			"Access the ~|Ardougne Rooftop Course|~": {
-				"Chunks": ["10547-1"],
-				"Level": 90,
-				"Output": "Mark of grace",
-				"Primary": true
 			},
 			"Access the ~|Barbarian Outpost Agility Course|~": {
 				"Chunks": ["10039"],
@@ -1291,13 +1278,6 @@
 				"Tasks": {
 					"~|Alfred Grimhand's Barcrawl|~ Complete the quest": "Quest"
 				}
-			},
-			"Access the ~|Canafis Rooftop Course|~": {
-				"Chunks": ["13878-1"],
-				"Level": 40,
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
 			},
 			"Access the ~|Dorgesh-Kaan Agility Course|~": {
 				"Chunks": ["Dorgesh-Kaan South Dungeon"],
@@ -1318,20 +1298,6 @@
 				},
 				"Priority": 2
 			},
-			"Access the ~|Draynor Village Rooftop Course|~": {
-				"Chunks": ["12339", "12338-1"],
-				"Level": 1,
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
-			},
-			"Access the ~|Falador Rooftop Course|~": {
-				"Chunks": ["12084-1"],
-				"Level": 50,
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
-			},
 			"Access the ~|Gnome Stronghold Agility Course|~": {
 				"Chunks": ["9781-1"],
 				"Level": 1,
@@ -1345,27 +1311,6 @@
 				"Level": 30,
 				"Primary": true,
 				"Priority": 4
-			},
-			"Access the ~|Pollnivneach Rooftop Course|~": {
-				"Chunks": ["13358-1"],
-				"Level": 70,
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
-			},
-			"Access the ~|Rellekka Rooftop Course|~": {
-				"Chunks": ["10553", "10297-1"],
-				"Level": 80,
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
-			},
-			"Access the ~|Seers' Village Rooftop Course|~": {
-				"Chunks": ["10806-1"],
-				"Level": 60,
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
 			},
 			"Access the ~|Colossal Wyrm Basic Course|~": {
 				"Chunks": ["6445"],
@@ -1392,13 +1337,6 @@
 				"Chunks": ["6200-1", "5944-1"],
 				"Level": 45,
 				"Items": ["Crossbow[+]", "Mith grapple"],
-				"Output": "Mark of grace",
-				"Primary": true,
-				"Priority": 1
-			},
-			"Access the ~|Varrock Rooftop Course|~": {
-				"Chunks": ["12853-1", "12597-1"],
-				"Level": 30,
 				"Output": "Mark of grace",
 				"Primary": true,
 				"Priority": 1
