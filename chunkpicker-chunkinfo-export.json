@@ -11384,18 +11384,6 @@
 				"Priority": 4,
 				"Not F2P": true
 			},
-			"Craft a ~|celestial signet|~": {
-				"Items": ["Celestial ring", "Elven signet", "Crystal shard", "Stardust"],
-				"Level": 70,
-				"Objects": ["Singing bowl"],
-				"Output": "Celestial signet",
-				"Primary": false,
-				"Skills": {
-					"Smithing": 70
-				},
-				"Priority": 2,
-				"Not F2P": true
-			},
 			"Craft a ~|blade of saeldor|~": {
 				"Items": ["Enhanced crystal weapon seed", "Crystal shard"],
 				"Level": 82,
@@ -23742,76 +23730,6 @@
 				"Primary": true,
 				"Not F2P": true
 			},
-			"Mine a size-1 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 10,
-				"Output": "Stardust",
-				"Priority": 3
-			},
-			"Mine a size-2 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 20,
-				"Output": "Stardust",
-				"Priority": 4
-			},
-			"Mine a size-3 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 30,
-				"Output": "Stardust",
-				"Priority": 5
-			},
-			"Mine a size-4 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 40,
-				"Output": "Stardust",
-				"Priority": 3
-			},
-			"Mine a size-5 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 50,
-				"Output": "Stardust",
-				"Priority": 2
-			},
-			"Mine a size-6 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 60,
-				"Output": "Stardust",
-				"Priority": 4
-			},
-			"Mine a size-7 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 70,
-				"Output": "Stardust",
-				"Priority": 4
-			},
-			"Mine a size-8 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 80,
-				"Output": "Stardust"
-			},
-			"Mine a size-9 ~|shooting star|~": {
-				"Category": ["Shooting Star"],
-				"Items": ["Pickaxe[+]"],
-				"Objects": ["Shooting star#landing site"],
-				"Level": 90,
-				"Output": "Stardust"
-			},
 			"Obtain ~|adamantite ore|~ from blasted ore": {
 				"Items": ["Chisel", "Tinderbox", "Dynamite*"],
 				"Level": 60,
@@ -30782,12 +30700,6 @@
 				"Category": ["Minigame"],
 				"Items": ["Hallowed sack*"],
 				"Output": "Hallowed sack loot",
-				"Not F2P": true
-			},
-			"Trade in stardust*": {
-				"NPCs": ["Dusuri"],
-				"Items": ["Stardust*"],
-				"Output": "Stardust loot",
 				"Not F2P": true
 			},
 			"~|Pizazz points|~*": {
@@ -45938,18 +45850,6 @@
 				"Priority": 4,
 				"Not F2P": true,
 				"NoBoost": true
-			},
-			"Craft a ~|celestial signet|~": {
-				"Items": ["Celestial ring", "Elven signet", "Crystal shard", "Stardust"],
-				"Level": 70,
-				"Objects": ["Singing bowl"],
-				"Output": "Celestial signet",
-				"Primary": false,
-				"Skills": {
-					"Crafting": 70
-				},
-				"Priority": 3,
-				"Not F2P": true
 			},
 			"Craft a ~|blade of saeldor|~": {
 				"Items": ["Enhanced crystal weapon seed", "Crystal shard"],
@@ -126941,8 +126841,7 @@
 				"Mithril rocks": 10
 			},
 			"Shop": {
-				"Hendor's Awesome Ores": true,
-				"Mining Guild Mineral Exchange": true
+				"Hendor's Awesome Ores": true
 			}
 		},
 		"12184": {
@@ -138826,7 +138725,6 @@
 			},
 			"Shop": {
 				"Hendor's Awesome Ores": true,
-				"Mining Guild Mineral Exchange": true,
 				"Yarsul's Prodigious Pickaxes": true
 			}
 		},
@@ -189530,12 +189428,6 @@
 			"Tinderbox": true,
 			"Unlit torch": true
 		},
-		"Mining Guild Mineral Exchange": {
-			"Bag full of gems": true,
-			"Mining gloves": true,
-			"Soft clay pack": true,
-			"Superior mining gloves": true
-		},
 		"Miscellanian Clothes Shop": {
 			"Fremennik beige shirt": true,
 			"Fremennik blue shirt": true,
@@ -197685,20 +197577,6 @@
 				},
 				"White lily": {
 					"1": "1/10"
-				}
-			},
-			"Stardust loot": {
-				"Celestial ring": {
-					"1": "Always"
-				},
-				"Star fragment": {
-					"1": "Always"
-				},
-				"Bag full of gems": {
-					"1": "Always"
-				},
-				"Soft clay pack": {
-					"1": "Always"
 				}
 			},
 			"Pizazz points loot": {
