@@ -254,7 +254,6 @@ const skillNamesXp = [
     'Hunter'
 ];                                                                              // Names of all lampable skills
 const clueTiers = [
-    'Beginner',
     'Easy',
     'Medium',
     'Hard',
@@ -262,11 +261,6 @@ const clueTiers = [
     'Master'
 ];
 const clueStepAmounts = {
-    'Beginner': {
-        '1': 0.1,
-        '2': 0.45,
-        '3': 0.45
-    },
     'Easy': {
         '2': 0.33,
         '3': 0.34,
@@ -294,7 +288,6 @@ const clueStepAmounts = {
     }
 };
 let selectedOverlayClues = {
-    'Beginner': false,
     'Easy': false,
     'Medium': false,
     'Hard': false,
@@ -1272,7 +1265,6 @@ let savedStickerId;
 let savedStickerSticker;
 let altChallenges = {};
 let numClueTasks = {
-    'beginner': 0,
     'easy': 0,
     'medium': 0,
     'hard': 0,
@@ -1280,7 +1272,6 @@ let numClueTasks = {
     'master': 0
 };
 let numClueTasksPossible = {
-    'beginner': 0,
     'easy': 0,
     'medium': 0,
     'hard': 0,
@@ -1288,7 +1279,6 @@ let numClueTasksPossible = {
     'master': 0
 };
 let possibleClueTasks = {
-    'beginner': [],
     'easy': [],
     'medium': [],
     'hard': [],
@@ -3619,7 +3609,6 @@ let workerOnMessage = function(e) {
                 });
                 tempChallengeArrSaved = e.data[5];
                 numClueTasks = {
-                    'beginner': 0,
                     'easy': 0,
                     'medium': 0,
                     'hard': 0,
@@ -3627,7 +3616,6 @@ let workerOnMessage = function(e) {
                     'master': 0
                 };
                 numClueTasksPossible = {
-                    'beginner': 0,
                     'easy': 0,
                     'medium': 0,
                     'hard': 0,
@@ -3635,7 +3623,6 @@ let workerOnMessage = function(e) {
                     'master': 0
                 };
                 possibleClueTasks = {
-                    'beginner': [],
                     'easy': [],
                     'medium': [],
                     'hard': [],
@@ -6367,7 +6354,6 @@ let calcFutureChallenges2 = function(valids, baseChunkDataLocal) {
     let highestChallenge = {};
     let challengeStr = '';
     let clueData = {
-        'beginner': 0,
         'easy': 0,
         'medium': 0,
         'hard': 0,

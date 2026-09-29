@@ -3003,14 +3003,6 @@
 			}
 		},
 		"Construction": {
-			"Build a beginner ~|STASH|~ unit": {
-				"Items": ["Hammer[+]", "Saw[+]", "Plank", "Nails[+]"],
-				"Level": 12,
-				"Objects": ["STASH (beginner)"],
-				"Primary": false,
-				"Priority": 1,
-				"AlwaysValid": true
-			},
 			"Build a hard ~|STASH|~ unit": {
 				"Items": ["Hammer[+]", "Saw[+]", "Teak plank", "Nails[+]"],
 				"Level": 55,
@@ -7164,35 +7156,6 @@
 				"Primary": false,
 				"Priority": 464
 			},
-			"Complete a beginner contract for ~|Mahogany Homes|~": {
-				"Chunks": ["11828-1"],
-				"Items": ["Hammer[+]", "Saw[+]", "Plank*", "Steel bar*"],
-				"Level": 1,
-				"Primary": true,
-				"Priority": 465,
-				"NoBoost": true
-			},
-			"Complete a novice contract for ~|Mahogany Homes|~": {
-				"Chunks": ["11828-1"],
-				"Items": ["Hammer[+]", "Saw[+]", "Oak plank", "Steel bar"],
-				"Level": 20,
-				"Primary": true,
-				"Priority": 466
-			},
-			"Complete an adept contract for ~|Mahogany Homes|~": {
-				"Chunks": ["11828-1"],
-				"Items": ["Hammer[+]", "Saw[+]", "Teak plank", "Steel bar"],
-				"Level": 50,
-				"Primary": true,
-				"Priority": 467
-			},
-			"Complete an expert contract for ~|Mahogany Homes|~": {
-				"Chunks": ["11828-1"],
-				"Items": ["Hammer[+]", "Saw[+]", "Mahogany plank", "Steel bar"],
-				"Level": 70,
-				"Primary": true,
-				"Priority": 468
-			},
 			"Hire ~|Butler|~ as a servant": {
 				"Category": ["Construction Milestone"],
 				"Chunks": ["10548-1"],
@@ -11117,38 +11080,6 @@
 				"Priority": 1,
 				"Not F2P": true
 			},
-			"Craft ~|amethyst arrowtips|~": {
-				"Items": ["Chisel", "Amethyst*"],
-				"Level": 85,
-				"Output": "Amethyst arrowtips",
-				"Primary": true,
-				"Priority": 1,
-				"Not F2P": true
-			},
-			"Craft ~|amethyst bolt tips|~": {
-				"Items": ["Chisel", "Amethyst*"],
-				"Level": 83,
-				"Output": "Amethyst bolt tips",
-				"Primary": true,
-				"Priority": 1,
-				"Not F2P": true
-			},
-			"Craft an ~|amethyst dart tip|~": {
-				"Items": ["Chisel", "Amethyst*"],
-				"Level": 89,
-				"Output": "Amethyst dart tip",
-				"Primary": true,
-				"Priority": 1,
-				"Not F2P": true
-			},
-			"Craft ~|amethyst javelin heads|~": {
-				"Items": ["Chisel", "Amethyst*"],
-				"Level": 87,
-				"Output": "Amethyst javelin heads",
-				"Primary": true,
-				"Priority": 3,
-				"Not F2P": true
-			},
 			"Craft ~|black d'hide chaps|~": {
 				"Items": ["Black dragon leather*", "Needle[+]", "Thread[+]*"],
 				"Level": 82,
@@ -13539,20 +13470,6 @@
 				"Not F2P": true,
 				"Primary": false,
 				"Output": "Nature offerings"
-			},
-			"Access the ~|Farming Guild#Beginner tier|~": {
-				"Chunks": ["4922"],
-				"Level": 45,
-				"Primary": false,
-				"Priority": 1,
-				"NoPet": true
-			},
-			"Access the ~|Farming Guild#Intermediate tier|~": {
-				"Chunks": ["4922"],
-				"Level": 65,
-				"Primary": false,
-				"Priority": 1,
-				"NoPet": true
 			},
 			"Build a ~|scarecrow|~": {
 				"Items": ["Hay sack*", "Bronze spear*", "Watermelon*"],
@@ -16544,25 +16461,6 @@
 				"Output": "Adamant javelin",
 				"Priority": 1
 			},
-			"Fletch an ~|amethyst arrow|~": {
-				"Items": ["Headless arrow*", "Amethyst arrowtips*"],
-				"Level": 82,
-				"Primary": true,
-				"Output": "Amethyst arrow"
-			},
-			"Fletch an ~|amethyst dart|~": {
-				"Items": ["Amethyst dart tip*", "Feather[+]*"],
-				"Level": 90,
-				"Primary": true,
-				"Output": "Amethyst dart"
-			},
-			"Fletch an ~|amethyst javelin|~": {
-				"Items": ["Amethyst javelin heads*", "Javelin shaft*"],
-				"Level": 84,
-				"Primary": true,
-				"Output": "Amethyst javelin",
-				"Priority": 2
-			},
 			"Fletch an ~|flighted ogre arrow|~": {
 				"Items": ["Ogre arrow shaft*", "Feather[+]*"],
 				"Level": 5,
@@ -16654,13 +16552,6 @@
 				"Primary": true,
 				"Output": "Adamant bolts",
 				"Priority": 3
-			},
-			"Fletch ~|amethyst broad bolts|~": {
-				"Items": ["Broad bolts*", "Amethyst bolt tips*"],
-				"NPCs": ["PointSlayerMasters[+]"],
-				"Level": 76,
-				"Primary": true,
-				"Output": "Amethyst broad bolts"
 			},
 			"Fletch ~|barbed bolts|~": {
 				"Items": ["Bronze bolts*", "Barb bolttips*"],
@@ -23604,14 +23495,6 @@
 				"Primary": true,
 				"Priority": 1
 			},
-			"Mine ~|amethyst|~": {
-				"Items": ["Pickaxe[+]"],
-				"Level": 92,
-				"Objects": ["Amethyst crystals"],
-				"Output": "Amethyst",
-				"Primary": true,
-				"Not F2P": true
-			},
 			"Mine ~|basalt|~": {
 				"Items": ["Pickaxe[+]"],
 				"Level": 72,
@@ -29044,10 +28927,6 @@
 				"Items": ["Elemental metal*"],
 				"Output": "Primed mind bar",
 				"Not F2P": true
-			},
-			"Get a strange device (beginner) from Reldo*": {
-				"NPCs": ["Reldo"],
-				"Output": "Strange device (beginner)"
 			},
 			"Get a strange device (master) from Jorral*": {
 				"NPCs": ["Jorral"],
@@ -34545,12 +34424,6 @@
 				"Items": ["Splitbark legs", "Dragon boots", "Rune longsword"],
 				"Not F2P": true
 			},
-			"Atop Ice Mountain": {
-				"Chunks": ["11830-3"],
-				"ClueTier": "beginner",
-				"ClueType": "Hot/Cold",
-				"Items": ["Spade", "Strange device (beginner)"]
-			},
 			"09 degrees 48 minutes north, 17 degrees 39 minutes east": {
 				"Chunks": ["11830-3"],
 				"ClueTier": "medium",
@@ -34676,11 +34549,6 @@
 				"ClueTier": "elite",
 				"ClueType": "Cryptic",
 				"Not F2P": true
-			},
-			"Bow to Brugsen Bursen at the Grand Exchange.": {
-				"Chunks": ["12598"],
-				"ClueTier": "beginner",
-				"ClueType": "Emote"
 			},
 			"Dance at the entrance to the Grand Exchange. (Pink skirt, Pink robe top, Body tiara)": {
 				"Chunks": ["12598"],
@@ -35167,11 +35035,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"I Cord": {
-				"NPCs": ["Doric"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
-			},
 			"Speak to Doric, who lives north of Falador.": {
 				"NPCs": ["Doric"],
 				"ClueTier": "easy",
@@ -35225,11 +35088,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"In a village of barbarians, I am the one who guards the village from up high.": {
-				"NPCs": ["Hunding"],
-				"ClueTier": "beginner",
-				"ClueType": "Cryptic"
-			},
 			"Search the chest in Barbarian Village.": {
 				"Chunks": ["12341"],
 				"ClueTier": "easy",
@@ -35258,16 +35116,6 @@
 				"ClueType": "Cryptic",
 				"Items": ["Spade"],
 				"Not F2P": true
-			},
-			"Carpet Ahoy": {
-				"NPCs": ["Apothecary"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
-			},
-			"Rug Deter": {
-				"NPCs": ["Gertrude"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
 			},
 			"Search the crates in a bank in Varrock.": {
 				"Chunks": ["Varrock West Bank#Basement"],
@@ -35307,66 +35155,6 @@
 				"Items": ["Spade", "Strange device (master)"],
 				"Not Skiller": true,
 				"Not F2P": true
-			},
-			"Charlie: I need to fetch Charlie a trout.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Trout"]
-			},
-			"Charlie: I need to fetch Charlie a pike.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Pike"]
-			},
-			"Charlie: I need to fetch Charlie a raw herring.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Raw herring"]
-			},
-			"Charlie: I need to fetch Charlie a raw trout.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Raw trout"]
-			},
-			"Charlie: I need to fetch Charlie a piece of iron ore.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Iron ore"]
-			},
-			"Charlie: I need to fetch Charlie one iron dagger.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Iron dagger"]
-			},
-			"Charlie: I need to fetch Charlie a leather body.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Leather body"]
-			},
-			"Charlie: I need to fetch Charlie leather chaps.": {
-				"NPCs": ["Charlie the Tramp"],
-				"ClueTier": "beginner",
-				"ClueType": "Charlie",
-				"Items": ["Leather chaps"]
-			},
-			"Blow a raspberry at Gypsy Aris in her tent. (Gold ring, Gold necklace)": {
-				"Chunks": ["12853-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Emote",
-				"Items": ["Gold ring", "Gold necklace"]
-			},
-			"Cheer at Iffie Nitter. (Chef's hat, Red cape)": {
-				"Chunks": ["12853-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Emote",
-				"Items": ["Chef's hat", "Red cape"]
 			},
 			"Do a jig in Varrock's rune store. (Air tiara, Staff of water)": {
 				"Chunks": ["12853-1"],
@@ -35590,36 +35378,6 @@
 				"Items": ["Emerald amulet", "Iron platelegs", "Oak longbow"],
 				"Not F2P": true
 			},
-			"https://oldschool.runescape.wiki/images/Map_clue_Champions_guild.png?3bdf1": {
-				"Chunks": ["12596-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Map",
-				"Items": ["Spade"]
-			},
-			"https://oldschool.runescape.wiki/images/Map_clue_Falador_stones.png?1d2b6": {
-				"Chunks": ["12085-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Map",
-				"Items": ["Spade"]
-			},
-			"https://oldschool.runescape.wiki/images/Map_clue_Draynor_willows.png?bb604": {
-				"Chunks": ["12338-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Map",
-				"Items": ["Spade"]
-			},
-			"https://oldschool.runescape.wiki/images/Map_clue_South-eastern_Varrock_Mine.png?f0802": {
-				"Chunks": ["13108-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Map",
-				"Items": ["Spade"]
-			},
-			"https://oldschool.runescape.wiki/images/Map_clue_Wizard_tower.png?e1c87": {
-				"Chunks": ["12337"],
-				"ClueTier": "beginner",
-				"ClueType": "Map",
-				"Items": ["Spade"]
-			},
 			"https://oldschool.runescape.wiki/images/7/7e/Map_clue_Picnic_tables.png?788d4": {
 				"Chunks": ["10804"],
 				"ClueTier": "hard",
@@ -35663,26 +35421,11 @@
 				"ClueType": "Cryptic",
 				"Not F2P": true
 			},
-			"Sir Share Red": {
-				"NPCs": ["Hairdresser"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
-			},
-			"Char Game Disorder": {
-				"NPCs": ["Archmage Sedridor"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
-			},
 			"Talk to the barber in the Falador barber shop.": {
 				"NPCs": ["Hairdresser"],
 				"ClueTier": "easy",
 				"ClueType": "Cryptic",
 				"Not F2P": true
-			},
-			"Spin at Flynn's Mace Shop.": {
-				"Chunks": ["11828-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Emote"
 			},
 			"Wave in the Falador gem store. (Mithril pickaxe, Black platebody, Iron kiteshield)": {
 				"Chunks": ["11828-1"],
@@ -35823,17 +35566,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"Rain Cove": {
-				"NPCs": ["Veronica"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
-			},
-			"Patch of mushrooms just north-west of Draynor Manor": {
-				"Chunks": ["12340-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Hot/Cold",
-				"Items": ["Spade", "Strange device (beginner)"]
-			},
 			"Spin in Draynor Manor by the fountain. (Bronze full helm, Iron platebody, Studded chaps)": {
 				"Chunks": ["12340-1"],
 				"ClueTier": "easy",
@@ -35863,12 +35595,6 @@
 				"ClueType": "Coordinates",
 				"Items": ["Spade"],
 				"Not F2P": true
-			},
-			"Cow field north of Lumbridge": {
-				"Chunks": ["12596-3"],
-				"ClueTier": "beginner",
-				"ClueType": "Hot/Cold",
-				"Items": ["Spade", "Strange device (beginner)"]
 			},
 			"https://oldschool.runescape.wiki/images/3/36/Map_clue_Champions_guild.png?3bdf1": {
 				"Chunks": ["12596-3"],
@@ -36307,12 +36033,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"Inside the wheat field next to Draynor Village": {
-				"Chunks": ["12339"],
-				"ClueTier": "beginner",
-				"ClueType": "Hot/Cold",
-				"Items": ["Spade", "Strange device (beginner)"]
-			},
 			"Dance at the crossroads north of Draynor. (Iron chainbody, Sapphire ring, Longbow)": {
 				"Chunks": ["12339"],
 				"ClueTier": "easy",
@@ -36362,11 +36082,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"Panic at Al Kharid mine.": {
-				"Chunks": ["13107-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Emote"
-			},
 			"Headbang in the mine north of Al Kharid. (Desert shirt, Leather boots, Leather gloves)": {
 				"Chunks": ["13107-1"],
 				"ClueTier": "easy",
@@ -36388,12 +36103,6 @@
 				"Items": ["Spade", "Strange device (master)"],
 				"Not Skiller": true,
 				"Not F2P": true
-			},
-			"North-east of Al Kharid Mine": {
-				"Chunks": ["13363"],
-				"ClueTier": "beginner",
-				"ClueType": "Hot/Cold",
-				"Items": ["Spade", "Strange device (beginner)"]
 			},
 			"Aha Jar": {
 				"NPCs": ["Jaraah"],
@@ -36726,11 +36435,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"In Bar": {
-				"NPCs": ["Brian"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
-			},
 			"Cheer for the monks at Port Sarim. (Coif, Steel plateskirt, Sapphire necklace)": {
 				"Chunks": ["12082-1"],
 				"ClueTier": "easy",
@@ -36796,11 +36500,6 @@
 				"ClueTier": "master",
 				"ClueType": "Cryptic",
 				"Not F2P": true
-			},
-			"Taunt Roof": {
-				"NPCs": ["Fortunato"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
 			},
 			"https://oldschool.runescape.wiki/images/e/ed/Map_clue_Draynor_willows.png?bb604": {
 				"Chunks": ["12338-1"],
@@ -36885,11 +36584,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"Always walking around the castle grounds and somehow knows everyone's age.": {
-				"NPCs": ["Hans"],
-				"ClueTier": "beginner",
-				"ClueType": "Cryptic"
-			},
 			"Speak to Hans to solve the clue.": {
 				"NPCs": ["Hans"],
 				"ClueTier": "easy",
@@ -36908,17 +36602,6 @@
 				"ClueTier": "hard",
 				"ClueType": "Cryptic",
 				"Not F2P": true
-			},
-			"In the place Duke Horacio calls home, talk to a man with a hat dropped by goblins.": {
-				"NPCs": ["Cook (Lumbridge)"],
-				"ClueTier": "beginner",
-				"ClueType": "Cryptic"
-			},
-			"Clap at Bob's Brilliant Axes. (Bronze axe, Leather boots)": {
-				"Chunks": ["12850-1"],
-				"ClueTier": "beginner",
-				"ClueType": "Emote",
-				"Items": ["Bronze axe", "Leather boots"]
 			},
 			"Dig where only the skilled, the wealthy, or the brave can choose not to visit again.": {
 				"Chunks": ["12850-1"],
@@ -37583,11 +37266,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"An Earl": {
-				"NPCs": ["Ranael"],
-				"ClueTier": "beginner",
-				"ClueType": "Anagram"
-			},
 			"Search the chests upstairs in Al Kharid Palace.": {
 				"Chunks": ["13105-1"],
 				"ClueTier": "easy",
@@ -37808,11 +37486,6 @@
 				"Items": ["Spade", "Strange device (master)"],
 				"Not Skiller": true,
 				"Not F2P": true
-			},
-			"Near the open desert I reside, to get past me you must abide. Go forward if you dare, for when you pass me, you'll be sweating by your hair.": {
-				"NPCs": ["Shantay"],
-				"ClueTier": "beginner",
-				"ClueType": "Cryptic"
 			},
 			"Dance a jig under Shantay's Awning. Bow before you talk to me. (Pointed bruise blue snelm, Staff of air, Bronze sq shield)": {
 				"Chunks": ["13104"],
@@ -43245,14 +42918,6 @@
 				"Not F2P": true,
 				"NoBoost": true
 			},
-			"Wield an ~|amethyst dart|~": {
-				"Items": ["Amethyst dart"],
-				"Level": 50,
-				"Primary": false,
-				"Priority": 11,
-				"Not F2P": true,
-				"NoBoost": true
-			},
 			"Wield an ~|armadyl crossbow|~": {
 				"Items": ["Armadyl crossbow"],
 				"Level": 70,
@@ -43324,18 +42989,6 @@
 					"Magic": 50
 				},
 				"Priority": 3,
-				"Not F2P": true,
-				"NoBoost": true
-			},
-			"Wield ~|amethyst broad bolts|~": {
-				"Category": ["Slayer Equipment"],
-				"Items": ["Amethyst broad bolts"],
-				"Level": 61,
-				"Primary": false,
-				"Skills": {
-					"Slayer": 65
-				},
-				"Priority": 4,
 				"Not F2P": true,
 				"NoBoost": true
 			},
@@ -45404,17 +45057,6 @@
 				"Items": ["Unlit bug lantern"],
 				"Level": 33,
 				"Primary": false,
-				"Priority": 2,
-				"NoBoost": true
-			},
-			"Wield ~|amethyst broad bolts|~": {
-				"Category": ["Slayer Equipment"],
-				"Items": ["Amethyst broad bolts"],
-				"Level": 65,
-				"Primary": false,
-				"Skills": {
-					"Ranged": 61
-				},
 				"Priority": 2,
 				"NoBoost": true
 			},
@@ -54593,86 +54235,6 @@
 				"Category": ["Collection Log", "Collection Log Raids"],
 				"Label": "Collection Log",
 				"Items": ["Ancient remnant"]
-			},
-			"(Beginner Treasure Trails) Obtain ~|mole slippers|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Mole slippers"
-			},
-			"(Beginner Treasure Trails) Obtain ~|frog slippers|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Frog slippers"
-			},
-			"(Beginner Treasure Trails) Obtain ~|bear feet|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Bear feet"
-			},
-			"(Beginner Treasure Trails) Obtain ~|demon feet|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Demon feet"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|jester cape|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Jester cape"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|shoulder parrot|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Shoulder parrot"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|monk's robe top (t)|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Monk's robe top (t)"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|monk's robe (t)|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Monk's robe (t)"
-			},
-			"(Beginner Treasure Trails) Obtain an ~|amulet of defence (t)|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Amulet of defence (t)"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|sandwich lady hat|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Sandwich lady hat"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|sandwich lady top|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Sandwich lady top"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|sandwich lady bottom|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Sandwich lady bottom"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|rune scimitar ornament kit (guthix)|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Rune scimitar ornament kit (guthix)"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|rune scimitar ornament kit (saradomin)|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Rune scimitar ornament kit (saradomin)"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|rune scimitar ornament kit (zamorak)|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Rune scimitar ornament kit (zamorak)"
-			},
-			"(Beginner Treasure Trails) Obtain a ~|black pickaxe|~": {
-				"Category": ["Collection Log", "Collection Log Clues"],
-				"Label": "Collection Log",
-				"Output": "Black pickaxe"
 			},
 			"(Easy Treasure Trails) Obtain a ~|team cape zero|~": {
 				"Category": ["Collection Log", "Collection Log Clues"],
