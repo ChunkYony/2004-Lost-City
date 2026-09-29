@@ -216632,14 +216632,6 @@
 					"Access the ~|Farming Guild#Beginner tier|~": "Farming"
 				}]
 			},
-			"Runite rocks": {
-				"Mining Guild": [{
-					"F2P Only": "Nonskill"
-				}],
-				"Ruins of Tapoyauik": [{
-					"~|The Heart of Darkness|~ Complete the quest": "Quest"
-				}]
-			},
 			"Sand pit": {
 				"10553": [{
 					"~|The Fremennik Trials|~ Complete the quest": "Quest"
