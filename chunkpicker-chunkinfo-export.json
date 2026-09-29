@@ -47983,14 +47983,6 @@
 				"Priority": 4,
 				"Not F2P": true
 			},
-			"Wield a ~|statius's warhammer (bh)|~": {
-				"Items": ["Statius's warhammer (bh)"],
-				"Level": 75,
-				"Primary": false,
-				"Priority": 102,
-				"Not F2P": true,
-				"NoBoost": true
-			},
 			"Wield a ~|Dharok's greataxe|~": {
 				"Items": ["Dharok's greataxe"],
 				"Level": 70,
@@ -48043,20 +48035,6 @@
 				"Not F2P": true,
 				"NoBoost": true
 			},
-			"Wield a ~|black warhammer|~": {
-				"Items": ["Black warhammer"],
-				"Level": 10,
-				"Primary": false,
-				"Priority": 1,
-				"NoBoost": true
-			},
-			"Wield a ~|bronze warhammer|~": {
-				"Items": ["Bronze warhammer"],
-				"Level": 1,
-				"Primary": false,
-				"Priority": 2,
-				"NoBoost": true
-			},
 			"Wield a ~|crystal halberd|~": {
 				"Items": ["Crystal halberd"],
 				"Level": 35,
@@ -48076,14 +48054,6 @@
 				"Skills": {
 					"Attack": 60
 				},
-				"Priority": 2,
-				"Not F2P": true,
-				"NoBoost": true
-			},
-			"Wield a ~|dragon warhammer|~": {
-				"Items": ["Dragon warhammer"],
-				"Level": 60,
-				"Primary": false,
 				"Priority": 2,
 				"Not F2P": true,
 				"NoBoost": true
@@ -48110,13 +48080,6 @@
 				"Not F2P": true,
 				"NoBoost": true
 			},
-			"Wield a ~|mithril warhammer|~": {
-				"Items": ["Mithril warhammer"],
-				"Level": 20,
-				"Primary": false,
-				"Priority": 1,
-				"NoBoost": true
-			},
 			"Wield a ~|rune halberd|~": {
 				"Items": ["Rune halberd"],
 				"Level": 20,
@@ -48128,20 +48091,6 @@
 				"Not F2P": true,
 				"NoBoost": true
 			},
-			"Wield a ~|rune warhammer|~": {
-				"Items": ["Rune warhammer"],
-				"Level": 40,
-				"Primary": false,
-				"Priority": 1,
-				"NoBoost": true
-			},
-			"Wield a ~|steel warhammer|~": {
-				"Items": ["Steel warhammer"],
-				"Level": 5,
-				"Primary": false,
-				"Priority": 1,
-				"NoBoost": true
-			},
 			"Wield a ~|white halberd|~": {
 				"Items": ["White halberd"],
 				"Level": 5,
@@ -48149,14 +48098,6 @@
 				"Skills": {
 					"Attack": 10
 				},
-				"Priority": 3,
-				"Not F2P": true,
-				"NoBoost": true
-			},
-			"Wield a ~|white warhammer|~": {
-				"Items": ["White warhammer"],
-				"Level": 10,
-				"Primary": false,
 				"Priority": 3,
 				"Not F2P": true,
 				"NoBoost": true
@@ -48181,13 +48122,6 @@
 				},
 				"Priority": 1,
 				"Not F2P": true,
-				"NoBoost": true
-			},
-			"Wield an ~|adamant warhammer|~": {
-				"Items": ["Adamant warhammer"],
-				"Level": 30,
-				"Primary": false,
-				"Priority": 1,
 				"NoBoost": true
 			},
 			"Wield an ~|ancient sceptre|~": {
@@ -48233,13 +48167,6 @@
 				},
 				"Priority": 1,
 				"Not F2P": true,
-				"NoBoost": true
-			},
-			"Wield an ~|iron warhammer|~": {
-				"Items": ["Iron warhammer"],
-				"Level": 1,
-				"Primary": false,
-				"Priority": 1,
 				"NoBoost": true
 			},
 			"Wield ~|Torag's hammers|~": {
@@ -217197,11 +217124,6 @@
 			"Martin Thwait's Lost and Found.": {
 				"Rogues' Den": [{
 					"Access ~|Martin Thwait|~'s shop": "Nonskill"
-				}]
-			},
-			"Mining Guild Mineral Exchange": {
-				"Mining Guild": [{
-					"F2P Only": "Nonskill"
 				}]
 			},
 			"Multicannon parts for sale": {
