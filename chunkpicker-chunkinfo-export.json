@@ -38786,351 +38786,6 @@
 				"Not Skiller": true,
 				"Not F2P": true
 			},
-			"Shooting Stars: Dwarven Mine northern entrance": {
-				"StarRegion": "Asgarnia",
-				"Chunks": ["12085-2"]
-			},
-			"Shooting Stars: Mining Guild entrance": {
-				"StarRegion": "Asgarnia",
-				"Chunks": ["12084-1"]
-			},
-			"Shooting Stars: West Falador mine": {
-				"StarRegion": "Asgarnia",
-				"Chunks": ["11572-1"]
-			},
-			"Shooting Stars: Taverley (White Wolf Tunnel entrance)": {
-				"StarRegion": "Asgarnia",
-				"Chunks": ["11574-1"]
-			},
-			"Shooting Stars: Crafting Guild": {
-				"StarRegion": "Asgarnia",
-				"Chunks": ["11571-1"],
-				"Tasks": {
-					"Access the ~|Crafting Guild|~": "Crafting"
-				}
-			},
-			"Shooting Stars: Rimmington mine": {
-				"StarRegion": "Asgarnia",
-				"Chunks": ["11826"]
-			},
-			"Shooting Stars: South Crandor mine": {
-				"StarRegion": "Crandor and Karamja",
-				"Chunks": ["11314-2"],
-				"Tasks": {
-					"~|Dragon Slayer I|~ 6": "Quest"
-				}
-			},
-			"Shooting Stars: North Crandor mine": {
-				"StarRegion": "Crandor and Karamja",
-				"Chunks": ["11315-1"]
-			},
-			"Shooting Stars: North Brimhaven mine": {
-				"StarRegion": "Crandor and Karamja",
-				"Chunks": ["10802-1"]
-			},
-			"Shooting Stars: South Brimhaven mine": {
-				"StarRegion": "Crandor and Karamja",
-				"Chunks": ["10801"]
-			},
-			"Shooting Stars: Karamja Jungle mine (Nature Altar)": {
-				"StarRegion": "Crandor and Karamja",
-				"Chunks": ["11311"]
-			},
-			"Shooting Stars: Shilo Village mine": {
-				"StarRegion": "Crandor and Karamja",
-				"Chunks": ["11310-1"],
-				"Tasks": {
-					"~|Shilo Village|~ Complete the quest": "Quest"
-				}
-			},
-			"Shooting Stars: Feldip Hunter area": {
-				"StarRegion": "Feldip Hills and the Isle of Souls",
-				"Chunks": ["10286"]
-			},
-			"Shooting Stars: Rantz's cave": {
-				"StarRegion": "Feldip Hills and the Isle of Souls",
-				"Chunks": ["10542"]
-			},
-			"Shooting Stars: Corsair Cove": {
-				"StarRegion": "Feldip Hills and the Isle of Souls",
-				"Chunks": ["10284-1"]
-			},
-			"Shooting Stars: Corsair Cove Resource Area": {
-				"StarRegion": "Feldip Hills and the Isle of Souls",
-				"Chunks": ["9773-1"],
-				"Tasks": {
-					"~|Dragon Slayer I|~ Complete the quest": "Quest"
-				}
-			},
-			"Shooting Stars: Myths' Guild": {
-				"StarRegion": "Feldip Hills and the Isle of Souls",
-				"Chunks": ["9772"],
-				"Tasks": {
-					"~|Dragon Slayer II|~ Complete the quest": "Quest"
-				}
-			},
-			"Shooting Stars: Isle of Souls mine": {
-				"StarRegion": "Feldip Hills and the Isle of Souls",
-				"Chunks": ["8747"]
-			},
-			"Shooting Stars: Fossil Island mine": {
-				"StarRegion": "Fossil Island and Mos Le'Harmless",
-				"Chunks": ["14907-1"]
-			},
-			"Shooting Stars: Volcanic Mine entrance": {
-				"StarRegion": "Fossil Island and Mos Le'Harmless",
-				"Chunks": ["15163-1"]
-			},
-			"Shooting Stars: Mos Le'Harmless": {
-				"StarRegion": "Fossil Island and Mos Le'Harmless",
-				"Chunks": ["14638-1"]
-			},
-			"Shooting Stars: Rellekka mine": {
-				"StarRegion": "Fremennik Lands and Lunar Isle",
-				"Chunks": ["10553"]
-			},
-			"Shooting Stars: Keldagrim entrance mine": {
-				"StarRegion": "Fremennik Lands and Lunar Isle",
-				"Chunks": ["10809-1"]
-			},
-			"Shooting Stars: Miscellania mine": {
-				"StarRegion": "Fremennik Lands and Lunar Isle",
-				"Chunks": ["10044-1"]
-			},
-			"Shooting Stars: Jatizso mine entrance": {
-				"StarRegion": "Fremennik Lands and Lunar Isle",
-				"Chunks": ["9531-1"]
-			},
-			"Shooting Stars: Central Fremennik Isles mine": {
-				"StarRegion": "Fremennik Lands and Lunar Isle",
-				"Chunks": ["9531-2"]
-			},
-			"Shooting Stars: Lunar Isle mine entrance": {
-				"StarRegion": "Fremennik Lands and Lunar Isle",
-				"Chunks": ["8509-1"]
-			},
-			"Shooting Stars: Hosidius mine": {
-				"StarRegion": "Great Kourend",
-				"Chunks": ["6966"]
-			},
-			"Shooting Stars: Shayzien mine": {
-				"StarRegion": "Great Kourend",
-				"Chunks": ["6201-5"]
-			},
-			"Shooting Stars: Port Piscarilius mine": {
-				"StarRegion": "Great Kourend",
-				"Chunks": ["6969"]
-			},
-			"Shooting Stars: Dense essence mine": {
-				"StarRegion": "Great Kourend",
-				"Chunks": ["6972-1"]
-			},
-			"Shooting Stars: Lovakite mine": {
-				"StarRegion": "Great Kourend",
-				"Chunks": ["5692-1"]
-			},
-			"Shooting Stars: Lovakengj (bank)": {
-				"StarRegion": "Great Kourend",
-				"Chunks": ["5946-1"]
-			},
-			"Shooting Stars: Catherby bank": {
-				"StarRegion": "Kandarin",
-				"Chunks": ["11061"]
-			},
-			"Shooting Stars: Yanille bank": {
-				"StarRegion": "Kandarin",
-				"Chunks": ["10288-1"]
-			},
-			"Shooting Stars: Port Khazard mine": {
-				"StarRegion": "Kandarin",
-				"Chunks": ["10545"]
-			},
-			"Shooting Stars: Legends' Guild mine": {
-				"StarRegion": "Kandarin",
-				"Chunks": ["10804"]
-			},
-			"Shooting Stars: Coal Trucks": {
-				"StarRegion": "Kandarin",
-				"Chunks": ["10294-2"]
-			},
-			"Shooting Stars: South-east Ardougne mine (monastery)": {
-				"StarRegion": "Kandarin",
-				"Chunks": ["10290"]
-			},
-			"Shooting Stars: Kebos Lowlands mine (Kebos Swamp)": {
-				"StarRegion": "Kebos Lowlands",
-				"Chunks": ["4665-2"]
-			},
-			"Shooting Stars: Mount Karuulm mine": {
-				"StarRegion": "Kebos Lowlands",
-				"Chunks": ["4923-2"]
-			},
-			"Shooting Stars: Mount Karuulm (bank)": {
-				"StarRegion": "Kebos Lowlands",
-				"Chunks": ["5179"]
-			},
-			"Shooting Stars: Mount Quidamortem (bank)": {
-				"StarRegion": "Kebos Lowlands",
-				"Chunks": ["4919"]
-			},
-			"Shooting Stars: Al Kharid mine": {
-				"StarRegion": "Kharidian Desert",
-				"Chunks": ["13107-1"]
-			},
-			"Shooting Stars: Al Kharid (bank)": {
-				"StarRegion": "Kharidian Desert",
-				"Chunks": ["13105-1"]
-			},
-			"Shooting Stars: Uzer mine": {
-				"StarRegion": "Kharidian Desert",
-				"Chunks": ["13617-2"]
-			},
-			"Shooting Stars: Desert quarry": {
-				"StarRegion": "Kharidian Desert",
-				"Chunks": ["12589"]
-			},
-			"Shooting Stars: Agility Pyramid mine": {
-				"StarRegion": "Kharidian Desert",
-				"Chunks": ["13100-1"]
-			},
-			"Shooting Stars: Nardah": {
-				"StarRegion": "Kharidian Desert",
-				"Chunks": ["13613"]
-			},
-			"Shooting Stars: Emir's Arena": {
-				"StarRegion": "Kharidian Desert",
-				"Chunks": ["13363"]
-			},
-			"Shooting Stars: East Lumbridge Swamp mine": {
-				"StarRegion": "Misthalin",
-				"Chunks": ["12849-1"]
-			},
-			"Shooting Stars: West Lumbridge Swamp mine": {
-				"StarRegion": "Misthalin",
-				"Chunks": ["12593-1"]
-			},
-			"Shooting Stars: Draynor Village": {
-				"StarRegion": "Misthalin",
-				"Chunks": ["12338-1"]
-			},
-			"Shooting Stars: Varrock (East bank)": {
-				"StarRegion": "Misthalin",
-				"Chunks": ["12853-1"]
-			},
-			"Shooting Stars: South-east Varrock mine": {
-				"StarRegion": "Misthalin",
-				"Chunks": ["13108-1"]
-			},
-			"Shooting Stars: South-west Varrock mine": {
-				"StarRegion": "Misthalin",
-				"Chunks": ["12596-1"]
-			},
-			"Shooting Stars: Canifis (bank)": {
-				"StarRegion": "Morytania",
-				"Chunks": ["13878-1"]
-			},
-			"Shooting Stars: Burgh de Rott (bank)": {
-				"StarRegion": "Morytania",
-				"Chunks": ["13874-1"],
-				"Tasks": {
-					"~|In Aid of the Myreque|~ 2": "Quest"
-				}
-			},
-			"Shooting Stars: Abandoned Mine": {
-				"StarRegion": "Morytania",
-				"Chunks": ["13618-2"]
-			},
-			"Shooting Stars: Ver Sinhaza (bank)": {
-				"StarRegion": "Morytania",
-				"Chunks": ["14642-1"]
-			},
-			"Shooting Stars: Daeyalt essence mine entrance": {
-				"StarRegion": "Morytania",
-				"Chunks": ["14388-2"],
-				"Tasks": {
-					"~|Sins of the Father|~ 15": "Quest"
-				}
-			},
-			"Shooting Stars: Piscatoris mine": {
-				"StarRegion": "Piscatoris and the Gnome Stronghold",
-				"Chunks": ["9272-1"]
-			},
-			"Shooting Stars: Grand Tree": {
-				"StarRegion": "Piscatoris and the Gnome Stronghold",
-				"Chunks": ["9782"]
-			},
-			"Shooting Stars: Tree Gnome Stronghold bank": {
-				"StarRegion": "Piscatoris and the Gnome Stronghold",
-				"Chunks": ["9781-1"]
-			},
-			"Shooting Stars: Isafdar mine": {
-				"StarRegion": "Tirannwn",
-				"Chunks": ["9009-1"]
-			},
-			"Shooting Stars: Arandar mine": {
-				"StarRegion": "Tirannwn",
-				"Chunks": ["9267-2"]
-			},
-			"Shooting Stars: Lletya": {
-				"StarRegion": "Tirannwn",
-				"Chunks": ["9265"]
-			},
-			"Shooting Stars: Trahaearn mine entrance": {
-				"StarRegion": "Tirannwn",
-				"Chunks": ["Prifddinas"]
-			},
-			"Shooting Stars: Mynydd mine": {
-				"StarRegion": "Tirannwn",
-				"Chunks": ["8501"]
-			},
-			"Shooting Stars: Civitas illa Fortis (east bank)": {
-				"StarRegion": "Varlamore",
-				"Chunks": ["6960-1"]
-			},
-			"Shooting Stars: Stonecutter Outpost": {
-				"StarRegion": "Varlamore",
-				"Chunks": ["6958"]
-			},
-			"Shooting Stars: Ralos' Rise mining site (south-east of mountain)": {
-				"StarRegion": "Varlamore",
-				"Chunks": ["5936"]
-			},
-			"Shooting Stars: Mistrock mine": {
-				"StarRegion": "Varlamore",
-				"Chunks": ["5676-1"]
-			},
-			"Shooting Stars: Salvager Overlook mine": {
-				"StarRegion": "Varlamore",
-				"Chunks": ["6451-2"]
-			},
-			"Shooting Stars: South Wilderness mine (Mage of Zamorak)": {
-				"StarRegion": "Wilderness",
-				"Chunks": ["12343-1"]
-			},
-			"Shooting Stars: South-west Wilderness mine (South of Dark Warriors' Fortress)": {
-				"StarRegion": "Wilderness",
-				"Chunks": ["12088"]
-			},
-			"Shooting Stars: Bandit Camp mine (Hobgoblins)": {
-				"StarRegion": "Wilderness",
-				"Chunks": ["12346"]
-			},
-			"Shooting Stars: Lava Maze runite mine": {
-				"StarRegion": "Wilderness",
-				"Chunks": ["12092-2"]
-			},
-			"Shooting Stars: Resource Area": {
-				"StarRegion": "Wilderness",
-				"Chunks": ["12605"]
-			},
-			"Shooting Stars: Mage Arena": {
-				"StarRegion": "Wilderness",
-				"Chunks": ["12349"]
-			},
-			"Shooting Stars: Pirates' Hideout mine": {
-				"StarRegion": "Wilderness",
-				"Chunks": ["12093"]
-			},
 			"Abandoned Mine": {
 				"UnlocksArea": true,
 				"Tasks": {
@@ -59754,18 +59409,6 @@
 				"Items": ["Shayzien body (5)"],
 				"Not F2P": true
 			},
-			"(Shooting Stars) Obtain a ~|celestial ring (uncharged)|~": {
-				"Category": ["Collection Log", "Collection Log Other"],
-				"Label": "Collection Log",
-				"Items": ["Celestial ring"],
-				"Not F2P": true
-			},
-			"(Shooting Stars) Obtain a ~|star fragment|~": {
-				"Category": ["Collection Log", "Collection Log Other"],
-				"Label": "Collection Log",
-				"Items": ["Star fragment"],
-				"Not F2P": true
-			},
 			"(Skilling Pets) Obtain a ~|heron|~": {
 				"Category": ["Collection Log", "Collection Log Other", "Pets"],
 				"Label": "Collection Log",
@@ -61513,61 +61156,6 @@
 				"Chunks": ["11578-1"],
 				"Tasks": {
 					"Build a ~|Fire of Unseasonal Warmth|~": "Construction"
-				},
-				"Not F2P": true
-			},
-			"Build the ~|landing site|~ outside Fortis Colosseum": {
-				"Category": ["Money Unlockables"],
-				"Label": "Permanent Unlockables",
-				"Chunks": ["6960-1"],
-				"Objects": ["Unbuilt Landing Site"],
-				"Items": ["Quetzal feed", "Limestone brick", "Soft clay"],
-				"Tasks": {
-					"~|Twilight's Promise|~ Complete the quest": "Quest"
-				},
-				"Not F2P": true
-			},
-			"Build the ~|landing site|~ in Outer Fortis": {
-				"Category": ["Money Unlockables"],
-				"Label": "Permanent Unlockables",
-				"Chunks": ["6703"],
-				"Objects": ["Unbuilt Landing Site"],
-				"Items": ["Quetzal feed", "Limestone brick", "Soft clay"],
-				"Tasks": {
-					"~|Twilight's Promise|~ Complete the quest": "Quest"
-				},
-				"Not F2P": true
-			},
-			"Build the ~|landing site|~ by the Colossal Wyrm Remains": {
-				"Category": ["Money Unlockables"],
-				"Label": "Permanent Unlockables",
-				"Chunks": ["6701"],
-				"Objects": ["Unbuilt Landing Site"],
-				"Items": ["Quetzal feed", "Limestone brick", "Soft clay"],
-				"Tasks": {
-					"~|Twilight's Promise|~ Complete the quest": "Quest"
-				},
-				"Not F2P": true
-			},
-			"Build the ~|landing site|~ by the Cam Torum entrance": {
-				"Category": ["Money Unlockables"],
-				"Label": "Permanent Unlockables",
-				"Chunks": ["5680-1"],
-				"Objects": ["Unbuilt Landing Site"],
-				"Items": ["Quetzal feed", "Limestone brick", "Soft clay"],
-				"Tasks": {
-					"~|Twilight's Promise|~ Complete the quest": "Quest"
-				},
-				"Not F2P": true
-			},
-			"Build the ~|landing site|~ at the Salvager Overlook": {
-				"Category": ["Money Unlockables"],
-				"Label": "Permanent Unlockables",
-				"Chunks": ["6451-1"],
-				"Objects": ["Unbuilt Landing Site"],
-				"Items": ["Quetzal feed", "Limestone brick", "Soft clay"],
-				"Tasks": {
-					"~|Twilight's Promise|~ Complete the quest": "Quest"
 				},
 				"Not F2P": true
 			},
@@ -103640,8 +103228,7 @@
 					"Object": {
 						"Adamantite rocks": 4,
 						"Clay rocks": 2,
-						"Mithril rocks": 5,
-						"Shooting star#landing site": 1
+						"Mithril rocks": 5
 					},
 					"Quest": {
 						"Getting Ahead": "step"
@@ -103760,7 +103347,6 @@
 				"Minecart": 1,
 				"Recruiting board": 3,
 				"Score board": 2,
-				"Shooting star#landing site": 1,
 				"Storage unit": 1
 			},
 			"Quest": {
@@ -103945,8 +103531,7 @@
 				"2": {
 					"Object": {
 						"Coal rocks": 2,
-						"Iron rocks": 5,
-						"Shooting star#landing site": 1
+						"Iron rocks": 5
 					}
 				}
 			},
@@ -104269,7 +103854,6 @@
 				"Elevator controls": 1,
 				"Iron rocks": 1,
 				"Rocks": 4,
-				"Shooting star#landing site": 1,
 				"Volcanic Furnace": 1
 			},
 			"Quest": {
@@ -104879,8 +104463,7 @@
 						"Dead tree": 4,
 						"Gold rocks": 1,
 						"Iron rocks": 2,
-						"Maple tree": 3,
-						"Shooting star#landing site": 1
+						"Maple tree": 3
 					},
 					"Spawn": {
 						"Bones": 5
@@ -105052,7 +104635,6 @@
 						"Entrance": 1,
 						"Rocks (Ralos' Rise)": 1,
 						"STASH (master)": 1,
-						"Unbuilt Landing Site": 1,
 						"Young tree": 2
 					},
 					"Quest": {
@@ -105380,7 +104962,6 @@
 						"Coal rocks": 23,
 						"Drawers": 2,
 						"Lovakite rocks": 36,
-						"Shooting star#landing site": 1,
 						"Sink": 2
 					},
 					"Clue": {
@@ -105687,7 +105268,6 @@
 				"Copper rocks": 4,
 				"Dead tree": 14,
 				"Iron rocks": 4,
-				"Shooting star#landing site": 1,
 				"Tin rocks": 4,
 				"Tree": 16,
 				"Young tree": 3
@@ -106091,7 +105671,6 @@
 						"Furnace": 1,
 						"Iron rocks": 1,
 						"Minecart": 1,
-						"Shooting star#landing site": 1,
 						"Sink": 2
 					},
 					"Quest": {
@@ -106687,7 +106266,6 @@
 				},
 				"5": {
 					"Object": {
-						"Shooting star#landing site": 1
 					}
 				},
 				"6": {
@@ -107222,8 +106800,7 @@
 						"Adamantite rocks": 2,
 						"Coal rocks": 7,
 						"Dead tree": 2,
-						"Mithril rocks": 3,
-						"Shooting star#landing site": 1
+						"Mithril rocks": 3
 					}
 				},
 				"3": {
@@ -108808,7 +108385,6 @@
 				"Iron rocks": 6,
 				"Mithril rocks": 4,
 				"Oven": 1,
-				"Shooting star#landing site": 1,
 				"Silver rocks": 4,
 				"Spiked pit": 2,
 				"Tree": 24,
@@ -108910,7 +108486,6 @@
 						"Poll booth": 1,
 						"Potter's Wheel": 2,
 						"Pottery Oven": 2,
-						"Shooting star#landing site": 1,
 						"Tree": 22,
 						"Unbuilt Landing Site": 1,
 						"Water pump": 1,
@@ -109060,7 +108635,6 @@
 				"Iron rocks": 9,
 				"Oak tree": 6,
 				"Portal": 1,
-				"Shooting star#landing site": 1,
 				"Silver rocks": 2,
 				"Tin rocks": 4,
 				"Tree": 24
@@ -109261,7 +108835,6 @@
 				"Flax": 39,
 				"Minecart": 1,
 				"Oak tree": 14,
-				"Shooting star#landing site": 1,
 				"Tree": 27,
 				"Willow tree": 14
 			},
@@ -109395,8 +108968,7 @@
 					"Object": {
 						"Boulder (dense essence mine)": 1,
 						"Dense runestone": 2,
-						"Rocks": 5,
-						"Shooting star#landing site": 1
+						"Rocks": 5
 					},
 					"Spawn": {
 						"Chisel": 1
@@ -111718,7 +111290,6 @@
 			"Object": {
 				"Dead tree": 142,
 				"Gold rocks": 10,
-				"Shooting star#landing site": 1,
 				"Tree": 2
 			},
 			"Spawn": {
@@ -111780,8 +111351,7 @@
 					},
 					"Object": {
 						"Barrel": 3,
-						"Flax": 12,
-						"Shooting star#landing site": 1
+						"Flax": 12
 					},
 					"Quest": {
 						"Dream Mentor": "first",
@@ -112010,7 +111580,6 @@
 				"Gold rocks": 4,
 				"Iron rocks": 10,
 				"Mithril rocks": 2,
-				"Shooting star#landing site": 1,
 				"Silver rocks": 3,
 				"Tin rocks": 3,
 				"Tree": 82
@@ -112671,7 +112240,6 @@
 						"Leaves": 9,
 						"Magic tree": 3,
 						"Runite rocks": 2,
-						"Shooting star#landing site": 1,
 						"Sticks": 1,
 						"Tree": 115,
 						"Tripwire": 6
@@ -113169,7 +112737,6 @@
 				"Farming patch": 1,
 				"Flax": 10,
 				"Fruit Tree Patch": 1,
-				"Shooting star#landing site": 1,
 				"Spinning wheel": 1,
 				"Tree": 57,
 				"Well": 1
@@ -113252,8 +112819,7 @@
 					},
 					"Object": {
 						"Dead tree": 19,
-						"Pile of Rock": 17,
-						"Shooting star#landing site": 1
+						"Pile of Rock": 17
 					}
 				}
 			},
@@ -113374,7 +112940,6 @@
 						"Oak tree": 4,
 						"Plant": 25,
 						"Rabbit hole": 12,
-						"Shooting star#landing site": 1,
 						"Tin rocks": 2,
 						"Tree": 17,
 						"Yew tree": 2
@@ -114127,8 +113692,7 @@
 						"Boulders": 1,
 						"Chest": 1,
 						"Fishing spot (big net, harpoon)": 5,
-						"Fishing spot (cage, harpoon)": 5,
-						"Shooting star#landing site": 1
+						"Fishing spot (cage, harpoon)": 5
 					},
 					"Quest": {
 						"The Fremennik Isles": "step"
@@ -114730,7 +114294,6 @@
 				"Portal of Heroes": 1,
 				"Portal of Legends": 1,
 				"Range": 1,
-				"Shooting star#landing site": 1,
 				"Sink": 1,
 				"Spirit tree": 1,
 				"Stairs": 4
@@ -114764,7 +114327,6 @@
 						"Fishing spot (cage, harpoon)": 3,
 						"Maple tree": 4,
 						"Rocks (Corsair Cove Resource Area)": 1,
-						"Shooting star#landing site": 1,
 						"Yew tree": 3
 					}
 				},
@@ -115166,7 +114728,6 @@
 						"Obstacle net": 6,
 						"Obstacle pipe": 4,
 						"STASH (medium)": 1,
-						"Shooting star#landing site": 1,
 						"Spinning wheel": 3,
 						"Spirit tree": 1,
 						"Tree": 51,
@@ -115269,7 +114830,6 @@
 				"Ornament": 1,
 				"Range": 1,
 				"Rocks (Tree Gnome Stronghold)": 1,
-				"Shooting star#landing site": 1,
 				"Tree": 38
 			},
 			"Quest": {
@@ -116638,7 +116198,6 @@
 						"Maple tree#Miscellania": 13,
 						"Potato": 73,
 						"Rocks": 1,
-						"Shooting star#landing site": 1,
 						"Veg stall": 1,
 						"Wheat": 176
 					},
@@ -117171,7 +116730,6 @@
 						"Dead tree": 4,
 						"Gangplank": 4,
 						"Jungle Tree": 2,
-						"Shooting star#landing site": 1,
 						"Stairs": 2
 					},
 					"Shop": {
@@ -117238,7 +116796,6 @@
 				"Onion": 3,
 				"Pile of Rock (elemental)": 7,
 				"Potato": 4,
-				"Shooting star#landing site": 1,
 				"Swamp bubbles": 8,
 				"Tree": 31
 			},
@@ -117374,7 +116931,6 @@
 						"Range": 1,
 						"Rewards chest": 1,
 						"STASH (medium)": 1,
-						"Shooting star#landing site": 1,
 						"Sink": 1,
 						"Super magic potion": 1,
 						"Super ranging potion": 1,
@@ -117515,7 +117071,6 @@
 				"Rocks": 9,
 				"Sacks": 2,
 				"Sewer valve": 5,
-				"Shooting star#landing site": 1,
 				"Tree": 69,
 				"Well": 1
 			},
@@ -117832,7 +117387,6 @@
 						"Log balance (Coal Trucks)": 1,
 						"Oak tree": 2,
 						"Railing": 20,
-						"Shooting star#landing site": 1,
 						"Tree": 20,
 						"Willow tree": 14
 					},
@@ -118508,7 +118062,6 @@
 				"Dead tree": 5,
 				"Pile of Rock (elemental)": 3,
 				"Potato": 2,
-				"Shooting star#landing site": 1,
 				"Willow tree": 5
 			},
 			"Quest": {
@@ -118589,7 +118142,6 @@
 				"Range": 2,
 				"Rocks": 2,
 				"Sacks": 1,
-				"Shooting star#landing site": 1,
 				"Tin rocks": 9,
 				"Trawler boat": 1,
 				"Trawler net": 1,
@@ -119155,7 +118707,6 @@
 				"Pipe": 1,
 				"Potato": 7,
 				"Sand pit": 1,
-				"Shooting star#landing site": 1,
 				"Silver rocks": 3,
 				"Tightrope": 1,
 				"Unicorn's head": 1,
@@ -119744,8 +119295,7 @@
 			"Object": {
 				"Broken cart": 1,
 				"Fire#Forester's": 4,
-				"Gold rocks": 6,
-				"Shooting star#landing site": 1
+				"Gold rocks": 6
 			},
 			"Clue": {
 				"medium": 1,
@@ -119764,8 +119314,7 @@
 					},
 					"Object": {
 						"Gold rocks": 10,
-						"Ropeswing (Brimhaven)": 1,
-						"Shooting star#landing site": 1
+						"Ropeswing (Brimhaven)": 1
 					},
 					"Quest": {
 						"Holy Grail": "step"
@@ -119885,7 +119434,6 @@
 				"Oak tree": 19,
 				"STASH (easy)": 1,
 				"STASH (elite)": 1,
-				"Shooting star#landing site": 1,
 				"Totem Pole (Legends' Guild)": 1,
 				"Tree": 98,
 				"Willow tree": 5,
@@ -120202,7 +119750,6 @@
 						"Iron rocks": 9,
 						"Mithril rocks": 2,
 						"Oak tree": 10,
-						"Shooting star#landing site": 1,
 						"Tree": 39
 					},
 					"Quest": {
@@ -121421,7 +120968,6 @@
 				"STASH (easy)": 2,
 				"STASH (medium)": 1,
 				"Sacks": 1,
-				"Shooting star#landing site": 1,
 				"Stile": 1,
 				"Tree": 25,
 				"Willow tree": 5,
@@ -122122,7 +121668,6 @@
 						"Fishing spot (lure, bait)": 3,
 						"STASH (hard)": 1,
 						"Sand (pile)": 3,
-						"Shooting star#landing site": 1,
 						"Stepping stone": 1,
 						"Travel cart": 1
 					},
@@ -122182,7 +121727,6 @@
 				"Mithril rocks": 2,
 				"Mysterious ruins": 1,
 				"Rock": 3,
-				"Shooting star#landing site": 1,
 				"Silver rocks": 1
 			},
 			"Quest": {
@@ -122266,8 +121810,7 @@
 						"Adamantite rocks": 3,
 						"Coal rocks": 3,
 						"Mithril rocks": 7,
-						"Rocks (Crandor)": 1,
-						"Shooting star#landing site": 1
+						"Rocks (Crandor)": 1
 					},
 					"Spawn": {
 						"Plank": 3
@@ -122305,8 +121848,7 @@
 					"Object": {
 						"Coal rocks": 7,
 						"Gold rocks": 1,
-						"Mithril rocks": 1,
-						"Shooting star#landing site": 1
+						"Mithril rocks": 1
 					},
 					"Clue": {
 						"medium": 1,
@@ -123809,7 +123351,6 @@
 						"Potter's Wheel": 4,
 						"Pottery Oven": 1,
 						"Range": 1,
-						"Shooting star#landing site": 1,
 						"Silver rocks": 6,
 						"Sink": 1,
 						"Spinning wheel": 2,
@@ -123876,7 +123417,6 @@
 						"Dead tree": 64,
 						"Iron rocks": 3,
 						"Oak tree": 6,
-						"Shooting star#landing site": 1,
 						"Tin rocks": 6,
 						"Tree": 31,
 						"Willow tree": 11
@@ -124018,7 +123558,6 @@
 						"Potted plant": 1,
 						"STASH (easy)": 1,
 						"Sacks": 6,
-						"Shooting star#landing site": 1,
 						"Stones": 1,
 						"Tree": 18
 					},
@@ -125002,7 +124541,6 @@
 				"Range": 1,
 				"STASH (easy)": 1,
 				"Sacks": 2,
-				"Shooting star#landing site": 1,
 				"Sink": 1,
 				"Spade": 1,
 				"Tin rocks": 2,
@@ -126079,7 +125617,6 @@
 						"Notice board": 2,
 						"Oak tree": 5,
 						"Range": 3,
-						"Shooting star#landing site": 1,
 						"Sink": 1,
 						"STASH (easy)": 1,
 						"Tightrope": 3,
@@ -126175,8 +125712,7 @@
 					"Object": {
 						"Drawers": 2,
 						"Evergreen tree": 1,
-						"Sacks": 1,
-						"Shooting star#landing site": 1
+						"Sacks": 1
 					},
 					"Quest": {
 						"Between a Rock...": "step",
@@ -126323,8 +125859,7 @@
 				"Coal rocks": 34,
 				"Crate": 1,
 				"Mysterious ruins": 1,
-				"Sack": 4,
-				"Shooting star#landing site": 1
+				"Sack": 4
 			},
 			"Shop": {
 				"Sam's Wilderness Cape Shop.": true
@@ -126436,8 +125971,7 @@
 						"Deadly red spider": 14
 					},
 					"Object": {
-						"Runite rocks": 2,
-						"Shooting star#landing site": 1
+						"Runite rocks": 2
 					},
 					"Clue": {
 						"hard": 1
@@ -126504,8 +126038,7 @@
 				"Door (Pirates' Hideout)": 1,
 				"Iron rocks": 1,
 				"Larran's big chest": 1,
-				"Mithril rocks": 4,
-				"Shooting star#landing site": 1
+				"Mithril rocks": 4
 			},
 			"Shop": {
 				"Darren's Wilderness Cape Shop.": true
@@ -127126,7 +126659,6 @@
 						"STASH (master)": 1,
 						"STASH (medium)": 1,
 						"Seed Stall": 2,
-						"Shooting star#landing site": 1,
 						"Telescope": 1,
 						"Tree": 71,
 						"Willow tree": 5
@@ -127507,7 +127039,6 @@
 						"Dead tree": 24,
 						"Iron rocks": 2,
 						"Oak tree": 3,
-						"Shooting star#landing site": 1,
 						"Tree": 13,
 						"Wilderness Ditch": 51
 					},
@@ -127605,8 +127136,7 @@
 				"Adamantite rocks": 8,
 				"Coal rocks": 31,
 				"Iron rocks": 16,
-				"Mithril rocks": 19,
-				"Shooting star#landing site": 1
+				"Mithril rocks": 19
 			},
 			"Clue": {
 				"hard": 1
@@ -127689,7 +127219,6 @@
 			"Object": {
 				"Lever": 3,
 				"Sack": 1,
-				"Shooting star#landing site": 1,
 				"Web": 4
 			},
 			"Quest": {
@@ -128052,8 +127581,7 @@
 				"Grinder": 1,
 				"Kharidian cactus (Healthy)": 3,
 				"Rock": 1,
-				"Sandstone rocks": 35,
-				"Shooting star#landing site": 1
+				"Sandstone rocks": 35
 			},
 			"Quest": {
 				"Enakhra's Lament": "first"
@@ -128161,7 +127689,6 @@
 						"Dead tree": 14,
 						"Mithril rocks": 5,
 						"Mysterious ruins": 1,
-						"Shooting star#landing site": 1,
 						"Swamp bubbles": 15,
 						"Tree": 2,
 						"Warning sign": 2
@@ -128345,7 +127872,6 @@
 						"Oak tree": 3,
 						"Range": 1,
 						"Rocks": 3,
-						"Shooting star#landing site": 1,
 						"Silver rocks": 3,
 						"Stepping stone": 2,
 						"Tin rocks": 8,
@@ -128768,7 +128294,6 @@
 				"Magic tree": 3,
 				"Mithril rocks": 1,
 				"STASH (master)": 1,
-				"Shooting star#landing site": 1,
 				"Web": 1,
 				"Yew tree": 4
 			},
@@ -129338,7 +128863,6 @@
 						"Fishing spot (small net, bait)": 5,
 						"Rowboat": 1,
 						"STASH (easy)": 1,
-						"Shooting star#landing site": 1,
 						"Strong Yew": 1,
 						"Swamp bubbles": 6,
 						"Swampy sink": 1,
@@ -129826,7 +129350,6 @@
 						"STASH (beginner)": 2,
 						"STASH (easy)": 1,
 						"Shelf": 11,
-						"Shooting star#landing site": 1,
 						"Sink": 2,
 						"Stairs": 1,
 						"Tools": 1,
@@ -130825,8 +130348,7 @@
 					"Object": {
 						"Banana Tree": 8,
 						"Fire": 1,
-						"Gold rocks": 5,
-						"Shooting star#landing site": 1
+						"Gold rocks": 5
 					},
 					"Quest": {
 						"Icthlarin's Little Helper": "first"
@@ -131032,7 +130554,6 @@
 						"Roof top beams": 1,
 						"Sacks": 2,
 						"Shelves": 4,
-						"Shooting star#landing site": 1,
 						"Tightrope": 2,
 						"Tropical tree": 1,
 						"Well": 1,
@@ -131155,7 +130676,6 @@
 						"Mithril rocks": 2,
 						"Rocks": 4,
 						"STASH (easy)": 1,
-						"Shooting star#landing site": 1,
 						"Silver rocks": 5,
 						"Tin rocks": 1
 					},
@@ -131213,7 +130733,6 @@
 						"Iron rocks": 4,
 						"Oak tree": 11,
 						"Redberry bush": 2,
-						"Shooting star#landing site": 1,
 						"Tin rocks": 6,
 						"Tree": 85
 					},
@@ -132559,7 +132078,6 @@
 				"Open chest": 2,
 				"Poll booth": 1,
 				"Scoreboard": 1,
-				"Shooting star#landing site": 1,
 				"Staging area steps": 2,
 				"Supplies": 2,
 				"Telekinetic Teleport": 1,
@@ -133213,8 +132731,7 @@
 				"Crates": 18,
 				"Cupboard": 2,
 				"Elidinis Statuette": 1,
-				"Fountain": 1,
-				"Shooting star#landing site": 1
+				"Fountain": 1
 			},
 			"Quest": {
 				"Beneath Cursed Sands": "step",
@@ -133316,8 +132833,7 @@
 					"Object": {
 						"Cave": 1,
 						"Clay rocks": 10,
-						"Kharidian cactus (Healthy)": 3,
-						"Shooting star#landing site": 1
+						"Kharidian cactus (Healthy)": 3
 					},
 					"Quest": {
 						"The Golem": "step"
@@ -133347,7 +132863,6 @@
 					"Object": {
 						"Cart tunnel": 3,
 						"Mine cart": 1,
-						"Shooting star#landing site": 1,
 						"Stairs": 1
 					},
 					"Quest": {
@@ -134014,7 +133529,6 @@
 						"Low fence": 1,
 						"Open chest": 1,
 						"Rubble Pile": 1,
-						"Shooting star#landing site": 1,
 						"Well": 1
 					},
 					"Quest": {
@@ -134289,7 +133803,6 @@
 						"Old Bookshelf": 2,
 						"Pole-vault": 1,
 						"STASH (medium)": 1,
-						"Shooting star#landing site": 1,
 						"Swamp bubbles": 1,
 						"Tall tree": 1
 					},
@@ -135127,7 +134640,6 @@
 						"Potter's Wheel": 1,
 						"Pottery Oven": 1,
 						"Range": 2,
-						"Shooting star#landing site": 1,
 						"Sink": 2
 					},
 					"Shop": {
@@ -135496,7 +135008,6 @@
 						"Bank booth": 3,
 						"Climbing Net": 1,
 						"Gangplank": 2,
-						"Shooting star#landing site": 1,
 						"Stepping stone": 1
 					},
 					"Quest": {
@@ -135589,7 +135100,6 @@
 						"Roof": 4,
 						"Rotting log": 11,
 						"Scoreboard": 1,
-						"Shooting star#landing site": 1,
 						"Theatre of Blood": 1,
 						"Vyre well": 4
 					},
@@ -136276,7 +135786,6 @@
 						"Mithril rocks": 3,
 						"Notice board": 1,
 						"Rowboat": 1,
-						"Shooting star#landing site": 1,
 						"Soil#Fossil Island": 172,
 						"Well": 1
 					},
@@ -136690,8 +136199,7 @@
 						"Coal rocks": 9,
 						"Fire#Forester's": 1,
 						"Fossil Storage": 1,
-						"Rope (Fossil Island)": 1,
-						"Shooting star#landing site": 1
+						"Rope (Fossil Island)": 1
 					},
 					"Shop": {
 						"Petrified Pete's Ore Shop": true
@@ -138711,17 +138219,13 @@
 				"Yarsul": 1
 			},
 			"Object": {
-				"Adamantite rocks": 10,
-				"Amethyst crystals": 60,
 				"Bank Deposit Box": 1,
 				"Bank chest": 1,
 				"Boxes": 2,
 				"Cave": 1,
 				"Coal rocks": 57,
 				"Crate": 2,
-				"Iron rocks": 12,
-				"Mithril rocks": 15,
-				"Runite rocks": 2
+				"Mithril rocks": 15
 			},
 			"Shop": {
 				"Hendor's Awesome Ores": true,
@@ -145742,7 +145246,7 @@
 			"ForesterFire[+]": ["Forester's Campfire", "Fire#Forester's"],
 			"Coop[+]": ["Coop", "Chicken coop"],
 			"AnyTree[+]": ["Tree", "Dead tree", "Dying tree", "Evergreen tree", "Jungle tree", "Achey Tree", "Oak tree", "Willow tree", "Teak tree", "Mature juniper tree", "Maple tree", "Hollow tree", "Mahogany tree", "Arctic pine tree", "Yew tree", "Magic tree", "Redwood tree", "Evergreen tree (Mac)", "Sulliuscep", "Blisterwood Tree", "Bruma roots", "Burnt tree", "Dead tree (burnt)", "Mahogany#Etceteria", "Maple tree#Miscellania", "Teak#Etceteria"],
-			"AnyRock[+]": ["Soft clay rocks", "Calcified rocks", "Amalgamation", "Salt Deposit", "Crystals (Ancient essence)", "Dense runestone", "Gem rocks", "Rocks (Barronite)", "Amethyst crystals", "Basalt rock (mining)", "Blurite rocks", "Coal rock#Miscellania", "Daeyalt rocks", "Efh salt rock", "Granite rocks", "Pile of Rock", "Lovakite rocks", "Stalagmite", "Ore vein", "Rune Essence rock", "Sandstone rocks", "Pile of Rock (elemental)", "Te salt rock", "Urt salt rock", "Ash pile", "Volcanic sulphur rock", "Shooting star#landing site", "Adamantite rocks", "Adamantite vein", "Clay rocks", "Clay vein", "Coal rocks", "Coal vein", "Copper rocks", "Copper vein", "Gold rocks", "Mineral vein", "Iron rocks", "Iron vein", "Mithril rocks", "Mithril vein", "Runite rocks", "Silver rocks", "Tin rocks", "Tin vein"]
+			"AnyRock[+]": ["Soft clay rocks", "Calcified rocks", "Amalgamation", "Salt Deposit", "Crystals (Ancient essence)", "Dense runestone", "Gem rocks", "Rocks (Barronite)", "Amethyst crystals", "Basalt rock (mining)", "Blurite rocks", "Coal rock#Miscellania", "Daeyalt rocks", "Efh salt rock", "Granite rocks", "Pile of Rock", "Lovakite rocks", "Stalagmite", "Ore vein", "Rune Essence rock", "Sandstone rocks", "Pile of Rock (elemental)", "Te salt rock", "Urt salt rock", "Ash pile", "Volcanic sulphur rock", "Adamantite rocks", "Adamantite vein", "Clay rocks", "Clay vein", "Coal rocks", "Coal vein", "Copper rocks", "Copper vein", "Gold rocks", "Mineral vein", "Iron rocks", "Iron vein", "Mithril rocks", "Mithril vein", "Runite rocks", "Silver rocks", "Tin rocks", "Tin vein"]
 		},
 		"objectsPlusNames": {
 			"Adamantite[+]": "Any adamantite rock",
@@ -185812,90 +185316,6 @@
 		"Varlamore": ["5676", "5936", "6451", "6958", "6960"],
 		"Wilderness": ["12343", "12088", "12346", "12092", "12093", "12349", "12605"]
 	},
-	"mapOverlays": {
-		"Shooting Stars": [
-			{ "color": "#1978d2", "x": 3018, "y": 3443 },
-			{ "color": "#1978d2", "x": 3030, "y": 3348 },
-			{ "color": "#1978d2", "x": 2906, "y": 3355 },
-			{ "color": "#1978d2", "x": 2882, "y": 3474 },
-			{ "color": "#1978d2", "x": 2940, "y": 3280 },
-			{ "color": "#1978d2", "x": 2974, "y": 3241 },
-			{ "color": "#6bc71f", "x": 2822, "y": 3238 },
-			{ "color": "#6bc71f", "x": 2835, "y": 3296 },
-			{ "color": "#6bc71f", "x": 2736, "y": 3221 },
-			{ "color": "#6bc71f", "x": 2742, "y": 3143 },
-			{ "color": "#6bc71f", "x": 2845, "y": 3037 },
-			{ "color": "#6bc71f", "x": 2827, "y": 2999 },
-			{ "color": "#ffc719", "x": 2571, "y": 2964 },
-			{ "color": "#ffc719", "x": 2630, "y": 2993 },
-			{ "color": "#ffc719", "x": 2567, "y": 2858 },
-			{ "color": "#ffc719", "x": 2483, "y": 2886 },
-			{ "color": "#ffc719", "x": 2468, "y": 2842 },
-			{ "color": "#ffc719", "x": 2200, "y": 2792 },
-			{ "color": "#d74ed7", "x": 3774, "y": 3814 },
-			{ "color": "#d74ed7", "x": 3818, "y": 3801 },
-			{ "color": "#d74ed7", "x": 3686, "y": 2969 },
-			{ "color": "#d74ed7", "x": 2683, "y": 3699 },
-			{ "color": "#d74ed7", "x": 2727, "y": 3683 },
-			{ "color": "#d74ed7", "x": 2528, "y": 3887 },
-			{ "color": "#d74ed7", "x": 2393, "y": 3814 },
-			{ "color": "#d74ed7", "x": 2375, "y": 3832 },
-			{ "color": "#d74ed7", "x": 2139, "y": 3938 },
-			{ "color": "#1978d2", "x": 1778, "y": 3493 },
-			{ "color": "#1978d2", "x": 1597, "y": 3648 },
-			{ "color": "#1978d2", "x": 1769, "y": 3709 },
-			{ "color": "#1978d2", "x": 1760, "y": 3853 },
-			{ "color": "#1978d2", "x": 1437, "y": 3840 },
-			{ "color": "#1978d2", "x": 1534, "y": 3747 },
-			{ "color": "#f54636", "x": 2804, "y": 3434 },
-			{ "color": "#f54636", "x": 2602, "y": 3086 },
-			{ "color": "#f54636", "x": 2624, "y": 3141 },
-			{ "color": "#f54636", "x": 2705, "y": 3333 },
-			{ "color": "#f54636", "x": 2589, "y": 3478 },
-			{ "color": "#f54636", "x": 2608, "y": 3233 },
-			{ "color": "#ffc719", "x": 1210, "y": 3651 },
-			{ "color": "#ffc719", "x": 1279, "y": 3817 },
-			{ "color": "#ffc719", "x": 1322, "y": 3816 },
-			{ "color": "#ffc719", "x": 1258, "y": 3564 },
-			{ "color": "#ffc719", "x": 3296, "y": 3298 },
-			{ "color": "#ffc719", "x": 3276, "y": 3164 },
-			{ "color": "#ffc719", "x": 3424, "y": 3160 },
-			{ "color": "#ffc719", "x": 3171, "y": 2910 },
-			{ "color": "#ffc719", "x": 3316, "y": 2867 },
-			{ "color": "#ffc719", "x": 3434, "y": 2889 },
-			{ "color": "#ffc719", "x": 3351, "y": 3281 },
-			{ "color": "#f54636", "x": 3230, "y": 3155 },
-			{ "color": "#f54636", "x": 3153, "y": 3150 },
-			{ "color": "#f54636", "x": 3094, "y": 3235 },
-			{ "color": "#f54636", "x": 3258, "y": 3408 },
-			{ "color": "#f54636", "x": 3290, "y": 3353 },
-			{ "color": "#f54636", "x": 3175, "y": 3362 },
-			{ "color": "#6bc71f", "x": 3505, "y": 3485 },
-			{ "color": "#6bc71f", "x": 3500, "y": 3219 },
-			{ "color": "#6bc71f", "x": 3451, "y": 3233 },
-			{ "color": "#6bc71f", "x": 3650, "y": 3214 },
-			{ "color": "#6bc71f", "x": 3635, "y": 3340 },
-			{ "color": "#6bc71f", "x": 2341, "y": 3635 },
-			{ "color": "#6bc71f", "x": 2444, "y": 3490 },
-			{ "color": "#6bc71f", "x": 2448, "y": 3436 },
-			{ "color": "#4ef3f3", "x": 2269, "y": 3158 },
-			{ "color": "#4ef3f3", "x": 2318, "y": 3269 },
-			{ "color": "#4ef3f3", "x": 2329, "y": 3163 },
-			{ "color": "#4ef3f3", "x": 2253, "y": 3299 },
-			{ "color": "#4ef3f3", "x": 2173, "y": 3409 },
-			{ "color": "#f54636", "x": 1771, "y": 3102 },
-			{ "color": "#f54636", "x": 1742, "y": 2954 },
-			{ "color": "#f54636", "x": 1486, "y": 3089 },
-			{ "color": "#f54636", "x": 1422, "y": 2873 },
-			{ "color": "#f54636", "x": 1625, "y": 3275 },
-			{ "color": "#a5a5a5", "x": 3108, "y": 3569 },
-			{ "color": "#a5a5a5", "x": 3018, "y": 3593 },
-			{ "color": "#a5a5a5", "x": 3093, "y": 3756 },
-			{ "color": "#a5a5a5", "x": 3057, "y": 3887 },
-			{ "color": "#a5a5a5", "x": 3188, "y": 3932 },
-			{ "color": "#a5a5a5", "x": 3091, "y": 3962 },
-			{ "color": "#a5a5a5", "x": 3049, "y": 3940 }
-		],
 		"Impling Spawns": [
 			{ "color": "#1978d2", "x": 1705, "y": 3483 },
 			{ "color": "#1978d2", "x": 2279, "y": 3188 },
