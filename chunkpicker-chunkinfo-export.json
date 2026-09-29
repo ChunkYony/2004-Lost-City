@@ -148720,9 +148720,6 @@
 			"Binding necklace": {
 				"1": "3/256"
 			},
-			"Ensouled abyssal head": {
-				"1": "1/40"
-			},
 			"Clue scroll (medium)": {
 				"1": "1/256"
 			}
@@ -149957,9 +149954,6 @@
 			"Troll bone": {
 				"1": "1/4"
 			},
-			"Ensouled troll head": {
-				"1": "1/45"
-			},
 			"Big bones": {
 				"1": "Always"
 			},
@@ -150181,9 +150175,6 @@
 			},
 			"Swordfish": {
 				"5": "2/128"
-			},
-			"Ensouled aviansie head": {
-				"1": "1/35"
 			},
 			"Brimstone key": {
 				"1": "1/292"
@@ -151003,9 +150994,6 @@
 			"Bear ribs": {
 				"1": "Always"
 			},
-			"Ensouled bear head": {
-				"1": "1/25"
-			},
 			"Clue scroll (beginner)": {
 				"1": "1/90"
 			}
@@ -151063,9 +151051,6 @@
 			},
 			"Troll bone": {
 				"1": "1/4"
-			},
-			"Ensouled troll head": {
-				"1": "1/45"
 			},
 			"Brimstone key": {
 				"1": "1/268"
@@ -151643,9 +151628,6 @@
 			"Giant key": {
 				"1": "1/128"
 			},
-			"Ensouled giant head": {
-				"1": "1/25"
-			},
 			"Clue scroll (beginner)": {
 				"1": "1/50"
 			},
@@ -151698,9 +151680,6 @@
 			},
 			"Bear ribs": {
 				"1": "Always"
-			},
-			"Ensouled bear head": {
-				"1": "1/25"
 			},
 			"Clue scroll (beginner)": {
 				"1": "1/90"
@@ -151761,9 +151740,6 @@
 			},
 			"Looting bag": {
 				"1": "1/3"
-			},
-			"Ensouled demon head": {
-				"1": "1/35"
 			},
 			"Brimstone key": {
 				"1": "1/85"
@@ -151827,9 +151803,6 @@
 			},
 			"Looting bag": {
 				"1": "1/3"
-			},
-			"Ensouled demon head": {
-				"1": "1/35"
 			},
 			"Rune sword": {
 				"1": "4/74"
@@ -152006,9 +151979,6 @@
 			"Looting bag": {
 				"1": "1/3"
 			},
-			"Ensouled dragon head": {
-				"1": "1/35"
-			},
 			"Brimstone key": {
 				"1": "1/74"
 			},
@@ -152071,9 +152041,6 @@
 			},
 			"Looting bag": {
 				"1": "1/3"
-			},
-			"Ensouled dragon head": {
-				"1": "1/35"
 			},
 			"Draconic visage": {
 				"1": "1/5000"
@@ -152215,9 +152182,6 @@
 			},
 			"Looting bag": {
 				"1": "1/5"
-			},
-			"Ensouled unicorn head": {
-				"1": "1/35"
 			}
 		},
 		"Black unicorn Foal": {
@@ -152395,9 +152359,6 @@
 			},
 			"Bass": {
 				"1": "3/128"
-			},
-			"Ensouled dragon head": {
-				"1": "1/50"
 			},
 			"Brimstone key": {
 				"1": "1/97"
@@ -153015,9 +152976,6 @@
 			"Curry": {
 				"2": "8/128"
 			},
-			"Ensouled dragon head": {
-				"1": "1/20"
-			},
 			"Brimstone key": {
 				"1": "1/65"
 			},
@@ -153126,9 +153084,6 @@
 			"Curry": {
 				"1-2": "2/128"
 			},
-			"Ensouled dragon head": {
-				"1": "1/28"
-			},
 			"Clue scroll (hard)": {
 				"1": "1/128"
 			},
@@ -153234,9 +153189,6 @@
 			"Curry": {
 				"3": "8/128"
 			},
-			"Ensouled dragon head": {
-				"1": "1/20"
-			},
 			"Brimstone key": {
 				"1": "1/62"
 			},
@@ -153273,9 +153225,6 @@
 				"1": "Always"
 			},
 			"Clue scroll (beginner)": {
-				"1": "Always"
-			},
-			"Ensouled giant head": {
 				"1": "Always"
 			},
 			"Rune longsword": {
@@ -154272,9 +154221,6 @@
 			"Looting bag": {
 				"1": "1/11"
 			},
-			"Ensouled chaos druid head": {
-				"1": "1/35"
-			},
 			"GemDropTable+": {
 				"1": "1/128"
 			},
@@ -154339,9 +154285,6 @@
 			},
 			"Super defence(1)": {
 				"1": "1/128"
-			},
-			"Ensouled chaos druid head": {
-				"1": "1/25"
 			},
 			"GemDropTable+": {
 				"1": "1/128"
@@ -155570,9 +155513,6 @@
 			"Giant key": {
 				"1": "1/128"
 			},
-			"Ensouled giant head": {
-				"1": "1/25"
-			},
 			"Clue scroll (beginner)": {
 				"1": "1/50"
 			},
@@ -155672,9 +155612,6 @@
 			},
 			"Dagannoth ribs": {
 				"1": "1/4"
-			},
-			"Ensouled dagannoth head": {
-				"1": "1/40"
 			},
 			"Brimstone key": {
 				"1": "1/235"
@@ -155783,9 +155720,6 @@
 			"Dagannoth ribs": {
 				"1": "1/4"
 			},
-			"Ensouled dagannoth head": {
-				"1": "1/35"
-			},
 			"Brimstone key": {
 				"1": "1/128"
 			},
@@ -155857,9 +155791,6 @@
 			},
 			"Dagannoth ribs": {
 				"1": "1/4"
-			},
-			"Ensouled dagannoth head": {
-				"1": "1/40"
 			},
 			"Brimstone key": {
 				"1": "1/128"
@@ -155998,9 +155929,6 @@
 			"Grimy ranarr weed": {
 				"1": "5/128"
 			},
-			"Ensouled dagannoth head": {
-				"1": "1/20"
-			},
 			"Brimstone key": {
 				"1": "1/59"
 			},
@@ -156135,9 +156063,6 @@
 			"Shark": {
 				"5": "1/128"
 			},
-			"Ensouled dagannoth head": {
-				"1": "1/20"
-			},
 			"Brimstone key": {
 				"1": "1/59"
 			},
@@ -156247,9 +156172,6 @@
 			},
 			"Feather": {
 				"250-500": "1/128"
-			},
-			"Ensouled dagannoth head": {
-				"1": "1/20"
 			},
 			"Brimstone key": {
 				"1": "1/59"
@@ -157780,9 +157702,6 @@
 			"Unholy mould": {
 				"1": "1/129"
 			},
-			"Ensouled chaos druid head": {
-				"1": "1/20"
-			},
 			"Looting bag": {
 				"1": "1/3"
 			},
@@ -157859,9 +157778,6 @@
 			"Adamantite ore": {
 				"1": "1/128"
 			},
-			"Ensouled elf head": {
-				"1": "1/50"
-			},
 			"Clue scroll (hard)": {
 				"1": "1/128"
 			},
@@ -157925,9 +157841,6 @@
 			},
 			"Adamantite ore": {
 				"1": "1/128"
-			},
-			"Ensouled elf head": {
-				"1": "1/40"
 			},
 			"Clue scroll (hard)": {
 				"1": "1/128"
@@ -158240,9 +158153,6 @@
 			},
 			"Nothing": {
 				"1": "109/128"
-			},
-			"Ensouled ogre head": {
-				"1": "1/30"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -158806,9 +158716,6 @@
 			},
 			"Fire giant bone": {
 				"1": "1/4"
-			},
-			"Ensouled giant head": {
-				"1": "1/20"
 			},
 			"Brimstone key": {
 				"1": "1/139"
@@ -160215,9 +160122,6 @@
 			"Seaweed": {
 				"1": "Always"
 			},
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
 			"Clue scroll (beginner)": {
 				"1": "Rare"
 			}
@@ -160609,9 +160513,6 @@
 			"Goblin skull": {
 				"1": "1/4"
 			},
-			"Ensouled goblin head": {
-				"1": "1/35"
-			},
 			"Clue scroll (beginner)": {
 				"1": "1/64"
 			},
@@ -160654,9 +160555,6 @@
 			},
 			"Goblin skull": {
 				"1": "1/4"
-			},
-			"Ensouled goblin head": {
-				"1": "1/30"
 			},
 			"Clue scroll (beginner)": {
 				"1": "1/80"
@@ -160767,9 +160665,6 @@
 			"Goblin skull": {
 				"1": "1/4"
 			},
-			"Ensouled goblin head": {
-				"1": "1/30"
-			},
 			"Clue scroll (beginner)": {
 				"1": "1/80"
 			},
@@ -160847,9 +160742,6 @@
 			},
 			"Looting bag": {
 				"1": "1/11"
-			},
-			"Ensouled goblin head": {
-				"1": "1/30"
 			},
 			"Clue scroll (beginner)": {
 				"1": "1/80"
@@ -160930,9 +160822,6 @@
 			"Goblin skull": {
 				"1": "1/4"
 			},
-			"Ensouled goblin head": {
-				"1": "1/30"
-			},
 			"Clue scroll (beginner)": {
 				"1": "1/80"
 			},
@@ -161001,12 +160890,6 @@
 			},
 			"Goblin skull": {
 				"1": "1/4"
-			},
-			"Ensouled goblin head": {
-				"1": "1/35"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/64"
 			},
 			"Goblin champion scroll": {
 				"1": "1/5000"
@@ -161122,12 +161005,6 @@
 			}
 		},
 		"Grave scorpion": {
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/100"
-			}
 		},
 		"Greater Skeleton Hellhound (Calvar'ion)": {
 			"Bones": {
@@ -161217,9 +161094,6 @@
 			"Looting bag": {
 				"1": "1/3"
 			},
-			"Ensouled demon head": {
-				"1": "1/40"
-			},
 			"Brimstone key": {
 				"1": "1/112"
 			},
@@ -161273,9 +161147,6 @@
 			},
 			"Looting bag": {
 				"1": "1/3"
-			},
-			"Ensouled demon head": {
-				"1": "1/40"
 			},
 			"Adamant 2h sword": {
 				"1": "4/41"
@@ -161436,9 +161307,6 @@
 			"Looting bag": {
 				"1": "1/3"
 			},
-			"Ensouled dragon head": {
-				"1": "1/35"
-			},
 			"Clue scroll (hard)": {
 				"1": "1/128"
 			},
@@ -161483,9 +161351,6 @@
 			},
 			"Looting bag": {
 				"1": "1/3"
-			},
-			"Ensouled dragon head": {
-				"1": "1/35"
 			},
 			"Mithril 2h sword": {
 				"1": "5/128"
@@ -161618,12 +161483,6 @@
 			"Looting bag": {
 				"1": "1/7"
 			},
-			"Ensouled bear head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/90"
-			},
 			"Larran's key": {
 				"1": "1/1144"
 			},
@@ -161647,12 +161506,6 @@
 			"Looting bag": {
 				"1": "1/7"
 			},
-			"Ensouled bear head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/90"
-			},
 			"Larran's key": {
 				"1": "1/1144"
 			},
@@ -161672,12 +161525,6 @@
 			},
 			"Bear ribs": {
 				"1": "Always"
-			},
-			"Ensouled bear head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/90"
 			}
 		},
 		"Growler": {
@@ -162015,9 +161862,6 @@
 			"Crystal shard": {
 				"1": "1/24"
 			},
-			"Ensouled elf head": {
-				"1": "1/50"
-			},
 			"Clue scroll (hard)": {
 				"1": "1/128"
 			},
@@ -162118,9 +161962,6 @@
 		"Guard dog": {
 			"Bones": {
 				"1": "Always"
-			},
-			"Ensouled dog head": {
-				"1": "1/25"
 			},
 			"Key (medium)": {
 				"1": "Always"
@@ -162454,9 +162295,6 @@
 			"Vile ashes": {
 				"1": "Always"
 			},
-			"Ensouled hellhound head": {
-				"1": "1/40"
-			},
 			"Smouldering stone": {
 				"1": "1/32768"
 			},
@@ -162492,9 +162330,6 @@
 			"Vile ashes": {
 				"1": "Always"
 			},
-			"Ensouled hellhound head": {
-				"1": "1/40"
-			},
 			"Brimstone key": {
 				"1": "1/96"
 			},
@@ -162505,9 +162340,6 @@
 		"Hellhound#Wilderness Slayer Cave": {
 			"Vile ashes": {
 				"1": "Always"
-			},
-			"Ensouled hellhound head": {
-				"1": "1/40"
 			},
 			"Smouldering stone": {
 				"1": "1/16384"
@@ -162869,12 +162701,6 @@
 			"Looting bag": {
 				"1": "1/5"
 			},
-			"Ensouled giant head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/50"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -162970,12 +162796,6 @@
 			},
 			"Giant key": {
 				"1": "1/128"
-			},
-			"Ensouled giant head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/50"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -163078,12 +162898,6 @@
 			"Giant key": {
 				"1": "1/128"
 			},
-			"Ensouled giant head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/50"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -163170,12 +162984,6 @@
 			},
 			"Giant key": {
 				"1": "1/128"
-			},
-			"Ensouled giant head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/50"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -163537,12 +163345,6 @@
 			"Ice giant ribs": {
 				"1": "1/4"
 			},
-			"Ensouled giant head": {
-				"1": "1/21"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/40"
-			},
 			"Looting bag": {
 				"1": "1/3"
 			},
@@ -163602,9 +163404,6 @@
 			},
 			"Ice giant ribs": {
 				"1": "1/4"
-			},
-			"Ensouled giant head": {
-				"1": "1/21"
 			},
 			"Looting bag": {
 				"1": "1/3"
@@ -163788,9 +163587,6 @@
 			"Raw tuna": {
 				"4": "2/128"
 			},
-			"Ensouled troll head": {
-				"1": "1/20"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -163851,9 +163647,6 @@
 			"Ball of wool": {
 				"18-42 (noted)": "10/128"
 			},
-			"Ensouled troll head": {
-				"1": "1/20"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -163891,9 +163684,6 @@
 				"50": "6/128",
 				"100": "10/128",
 				"250": "1/128"
-			},
-			"Ensouled troll head": {
-				"1": "1/45"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -163993,9 +163783,6 @@
 			"Ball of wool": {
 				"18-42 (noted)": "10/128"
 			},
-			"Ensouled troll head": {
-				"1": "1/20"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -164070,9 +163857,6 @@
 			"Ball of wool": {
 				"18-42 (noted)": "10/128"
 			},
-			"Ensouled troll head": {
-				"1": "1/20"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -164110,9 +163894,6 @@
 				"50": "6/128",
 				"100": "10/128",
 				"250": "1/128"
-			},
-			"Ensouled troll head": {
-				"1": "1/45"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -164212,9 +163993,6 @@
 			"Ball of wool": {
 				"18-42 (noted)": "10/128"
 			},
-			"Ensouled troll head": {
-				"1": "1/20"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -164252,9 +164030,6 @@
 				"50": "6/128",
 				"100": "10/128",
 				"250": "1/128"
-			},
-			"Ensouled troll head": {
-				"1": "1/45"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -164511,9 +164286,6 @@
 			"Potion": {
 				"1": "1/128"
 			},
-			"Ensouled imp head": {
-				"1": "1/25"
-			},
 			"Looting bag": {
 				"1": "1/15"
 			},
@@ -164672,9 +164444,6 @@
 			"Teleport crystal (1)": {
 				"1": "1/128"
 			},
-			"Ensouled elf head": {
-				"1": "1/50"
-			},
 			"Clue scroll (hard)": {
 				"1": "1/128"
 			},
@@ -164738,9 +164507,6 @@
 			"Adamantite ore": {
 				"1": "3/128"
 			},
-			"Ensouled elf head": {
-				"1": "1/40"
-			},
 			"Clue scroll (hard)": {
 				"1": "1/128"
 			},
@@ -164801,9 +164567,6 @@
 			},
 			"Adamantite ore": {
 				"1": "1/128"
-			},
-			"Ensouled elf head": {
-				"1": "1/40"
 			},
 			"Enhanced crystal teleport seed": {
 				"1": "1/1024"
@@ -165434,9 +165197,6 @@
 			"Nothing": {
 				"1": "2/129"
 			},
-			"Ensouled horror head": {
-				"1": "1/40"
-			},
 			"Clue scroll (medium)": {
 				"1": "1/128"
 			},
@@ -165603,9 +165363,6 @@
 			"Defence potion(3)": {
 				"1": "1/128"
 			},
-			"Ensouled kalphite head": {
-				"1": "1/35"
-			},
 			"Brimstone key": {
 				"1": "1/91"
 			},
@@ -165752,9 +165509,6 @@
 			"Kq head (tattered)": {
 				"1": "Always"
 			},
-			"Ensouled kalphite head": {
-				"1": "1/20"
-			},
 			"Brimstone key": {
 				"1": "1/53"
 			},
@@ -165816,9 +165570,6 @@
 			"Waterskin(4)": {
 				"1": "3/128"
 			},
-			"Ensouled kalphite head": {
-				"1": "1/90"
-			},
 			"Brimstone key": {
 				"1": "1/145"
 			},
@@ -165876,9 +165627,6 @@
 			},
 			"Waterskin(4)": {
 				"1": "21/128"
-			},
-			"Ensouled kalphite head": {
-				"1": "1/250"
 			},
 			"Brimstone key": {
 				"1": "1/1136"
@@ -166135,12 +165883,6 @@
 			"Looting bag": {
 				"1": "1/4"
 			},
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/100"
-			},
 			"Larran's key": {
 				"1": "1/791"
 			},
@@ -166240,9 +165982,6 @@
 			},
 			"Troll bone": {
 				"1": "1/4"
-			},
-			"Ensouled troll head": {
-				"1": "1/28"
 			},
 			"Brimstone key": {
 				"1": "1/116"
@@ -166631,9 +166370,6 @@
 			},
 			"Slayer's enchantment": {
 				"1": "1/136"
-			},
-			"Ensouled dragon head": {
-				"1": "1/18"
 			}
 		},
 		"Lensa": {
@@ -166765,9 +166501,6 @@
 			"Looting bag": {
 				"1": "1/3"
 			},
-			"Ensouled demon head": {
-				"1": "1/50"
-			},
 			"Lesser demon champion scroll": {
 				"1": "1/5000"
 			},
@@ -166821,9 +166554,6 @@
 			},
 			"Looting bag": {
 				"1": "1/3"
-			},
-			"Ensouled demon head": {
-				"1": "1/50"
 			},
 			"Lesser demon champion scroll": {
 				"1": "1/5000"
@@ -168145,12 +167875,6 @@
 			"Right skull half": {
 				"1": "3/101"
 			},
-			"Ensouled minotaur head": {
-				"1": "1/50"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/60"
-			},
 			"Clue scroll (easy)": {
 				"1": "1/101"
 			},
@@ -168286,17 +168010,11 @@
 			},
 			"Monkey paw": {
 				"1": "Always"
-			},
-			"Ensouled monkey head": {
-				"1": "1/35"
 			}
 		},
 		"Monkey Archer": {
 			"Small ninja monkey bones": {
 				"1": "Always"
-			},
-			"Ensouled monkey head": {
-				"1": "1/35"
 			}
 		},
 		"Monkey Guard": {
@@ -168305,9 +168023,6 @@
 			},
 			"Bearded gorilla bones": {
 				"1": "Always"
-			},
-			"Ensouled monkey head": {
-				"1": "1/35"
 			}
 		},
 		"Monkey Zombie": {
@@ -168416,12 +168131,6 @@
 			"Moss giant bone": {
 				"1": "1/4"
 			},
-			"Ensouled giant head": {
-				"1": "1/24"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/45"
-			},
 			"Mossy key": {
 				"1": "1/150"
 			},
@@ -168504,9 +168213,6 @@
 			},
 			"Moss giant bone": {
 				"1": "1/4"
-			},
-			"Ensouled giant head": {
-				"1": "1/24"
 			},
 			"Mossy key": {
 				"1": "1/120"
@@ -168611,9 +168317,6 @@
 			},
 			"Troll bone": {
 				"1": "1/4"
-			},
-			"Ensouled troll head": {
-				"1": "1/45"
 			},
 			"Brimstone key": {
 				"1": "1/292"
@@ -169480,12 +169183,6 @@
 				"1": "Always",
 				"50 (noted)": "8/118"
 			},
-			"Clue scroll (beginner)": {
-				"1": "Always"
-			},
-			"Ensouled giant head": {
-				"1": "Always"
-			},
 			"Rune kiteshield": {
 				"1": "3/118"
 			},
@@ -169644,9 +169341,6 @@
 			"Ogre ribs": {
 				"1": "1/4"
 			},
-			"Ensouled ogre head": {
-				"1": "1/30"
-			},
 			"Long bone": {
 				"1": "1/400"
 			},
@@ -169666,9 +169360,6 @@
 			},
 			"Nothing": {
 				"1": "109/128"
-			},
-			"Ensouled ogre head": {
-				"1": "1/30"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -169747,9 +169438,6 @@
 			},
 			"Salmon": {
 				"1-3": "1/20"
-			},
-			"Ensouled ogre head": {
-				"1": "1/30"
 			},
 			"Rune med helm": {
 				"1": "1/40"
@@ -169840,9 +169528,6 @@
 			},
 			"Salmon": {
 				"1-3": "1/20"
-			},
-			"Ensouled ogre head": {
-				"1": "1/30"
 			},
 			"Rune med helm": {
 				"1": "1/40"
@@ -170178,9 +169863,6 @@
 			},
 			"Troll bone": {
 				"1": "1/4"
-			},
-			"Ensouled troll head": {
-				"1": "1/28"
 			},
 			"Brimstone key": {
 				"1": "1/116"
@@ -170678,28 +170360,11 @@
 				"1": "Always"
 			}
 		},
-		"Pit Scorpion": {
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/100"
-			}
-		},
-		"Poison Scorpion": {
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/100"
-			}
-		},
+		"Pit Scorpion": {},
+		"Poison Scorpion": {},
 		"Poison spider": {
 			"Looting bag": {
 				"1": "1/3"
-			},
-			"Clue scroll (beginner)": {
-				"1": "rare"
 			},
 			"Larran's key": {
 				"1": "1/176"
@@ -170928,9 +170593,6 @@
 			},
 			"Tattered temple page": {
 				"1": "1/10"
-			},
-			"Ensouled dragon head": {
-				"1": "1/40"
 			},
 			"Grubby key": {
 				"1": "1/50"
@@ -173006,9 +172668,6 @@
 			"Troll bone": {
 				"1": "1/4"
 			},
-			"Ensouled troll head": {
-				"1": "1/28"
-			},
 			"Brimstone key": {
 				"1": "1/97"
 			},
@@ -174032,9 +173691,6 @@
 			"Looting bag": {
 				"1": "1/3"
 			},
-			"Ensouled scorpion head": {
-				"1": "1/18"
-			},
 			"Brimstone key": {
 				"1": "1/75"
 			},
@@ -174055,9 +173711,6 @@
 			"Looting bag": {
 				"1": "1/3"
 			},
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
 			"Larran's key": {
 				"1": "1/426"
 			},
@@ -174068,12 +173721,6 @@
 		"Scorpia's offspring (monster)": {
 			"Looting bag": {
 				"1": "1/10"
-			},
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/100"
 			},
 			"Larran's key": {
 				"1": "1/1367"
@@ -174088,12 +173735,6 @@
 			},
 			"Looting bag": {
 				"1": "1/10"
-			},
-			"Ensouled scorpion head": {
-				"1": "1/25"
-			},
-			"Clue scroll (beginner)": {
-				"1": "1/100"
 			},
 			"Larran's key": {
 				"1": "1/1406"
@@ -177580,9 +177221,6 @@
 			"Troll bone": {
 				"1": "1/4"
 			},
-			"Ensouled troll head": {
-				"1": "1/28"
-			},
 			"Brimstone key": {
 				"1": "1/99"
 			},
@@ -178718,9 +178356,6 @@
 			"Troll bone": {
 				"1": "1/4"
 			},
-			"Ensouled troll head": {
-				"1": "1/45"
-			},
 			"Brimstone key": {
 				"1": "1/317"
 			},
@@ -179498,9 +179133,6 @@
 			"Troll bone": {
 				"1": "1/4"
 			},
-			"Ensouled troll head": {
-				"1": "1/28"
-			},
 			"Brimstone key": {
 				"1": "1/97"
 			},
@@ -179562,9 +179194,6 @@
 			},
 			"Raw mackerel": {
 				"3 (noted)": "2/128"
-			},
-			"Ensouled troll head": {
-				"1": "1/45"
 			},
 			"Long bone": {
 				"1": "1/400"
@@ -179683,9 +179312,6 @@
 			},
 			"Troll bone": {
 				"1": "1/4"
-			},
-			"Ensouled troll head": {
-				"1": "1/45"
 			},
 			"Brimstone key": {
 				"1": "1/268"
@@ -179817,9 +179443,6 @@
 			},
 			"Tokkul": {
 				"1-64": "160/512"
-			},
-			"Ensouled tzhaar head": {
-				"1": "1/35"
 			}
 		},
 		"TzHaar-Ket#Level 221": {
@@ -179849,18 +179472,6 @@
 			},
 			"Tokkul": {
 				"20-83": "192/512"
-			},
-			"Ensouled tzhaar head": {
-				"1": "1/35"
-			},
-			"Obsidian helmet": {
-				"1": "1/2000"
-			},
-			"Obsidian platebody": {
-				"1": "1/2000"
-			},
-			"Obsidian platelegs": {
-				"1": "1/2000"
 			},
 			"Nothing": {
 				"1": "274/512"
@@ -180165,9 +179776,6 @@
 			},
 			"Unicorn bone": {
 				"1": "Always"
-			},
-			"Ensouled unicorn head": {
-				"1": "1/35"
 			}
 		},
 		"Unicorn Foal": {
@@ -181937,9 +181545,6 @@
 		"Wild dog": {
 			"Bones": {
 				"1": "Always"
-			},
-			"Ensouled dog head": {
-				"1": "1/25"
 			}
 		},
 		"Wilson": {
@@ -201021,9 +200626,6 @@
 				"Defence potion(3)": {
 					"1": "1/128"
 				},
-				"Ensouled abyssal head": {
-					"1": "1/25"
-				},
 				"Brimstone key": {
 					"1": "1/76"
 				},
@@ -201109,9 +200711,6 @@
 				},
 				"Defence potion(3)": {
 					"1": "1/68"
-				},
-				"Ensouled abyssal head": {
-					"1": "1/25"
 				},
 				"Abyssal head": {
 					"1": "1/6000"
@@ -202012,9 +201611,6 @@
 				"Looting bag": {
 					"1": "1/3"
 				},
-				"Ensouled bloodveld head": {
-					"1": "1/35"
-				},
 				"Brimstone key": {
 					"1": "1/172"
 				},
@@ -202201,9 +201797,6 @@
 				"Anglerfish": {
 					"2": "8/128"
 				},
-				"Ensouled dragon head": {
-					"1": "1/20"
-				},
 				"Brimstone key": {
 					"1": "1/56"
 				},
@@ -202234,9 +201827,6 @@
 			},
 			"Cave abomination": {
 				"Big bones": {
-					"1": "Always"
-				},
-				"Ensouled horror head": {
 					"1": "Always"
 				},
 				"Mithril axe": {
@@ -202471,9 +202061,6 @@
 				"Mahogany logs": {
 					"2": "3/128"
 				},
-				"Ensouled horror head": {
-					"1": "1/30"
-				},
 				"Long bone": {
 					"1": "1/400"
 				},
@@ -202656,9 +202243,6 @@
 			"Cerberus": {
 				"Infernal ashes": {
 					"1": "Always"
-				},
-				"Ensouled hellhound head": {
-					"1": "1/15"
 				},
 				"Primordial crystal": {
 					"1": "1/512"
@@ -204366,9 +203950,6 @@
 				"Abyssal ashes": {
 					"1": "Always"
 				},
-				"Ensouled abyssal head": {
-					"1": "Always"
-				},
 				"Black sword": {
 					"1": "4/128"
 				},
@@ -204980,9 +204561,6 @@
 				"Vile ashes": {
 					"1": "Always"
 				},
-				"Ensouled bloodveld head": {
-					"1": "Always"
-				},
 				"Steel axe": {
 					"1": "4/128"
 				},
@@ -205050,9 +204628,6 @@
 			},
 			"Insatiable mutated Bloodveld": {
 				"Vile ashes": {
-					"1": "Always"
-				},
-				"Ensouled bloodveld head": {
 					"1": "Always"
 				},
 				"Crystal shard": {
@@ -206348,9 +205923,6 @@
 				},
 				"Reward casket (elite)": {
 					"1": "Always"
-				},
-				"Ensouled bloodveld head": {
-					"1": "1/20"
 				},
 				"Crystal shard": {
 					"3-5": "1/24"
