@@ -126934,14 +126934,11 @@
 			},
 			"Name": "Mining Guild",
 			"Object": {
-				"Adamantite rocks": 8,
 				"Bank Deposit Box": 1,
 				"Bank chest": 1,
 				"Coal rocks": 20,
 				"Crystals": 26,
-				"Iron rocks": 8,
-				"Mithril rocks": 10,
-				"Runite rocks": 2
+				"Mithril rocks": 10
 			},
 			"Shop": {
 				"Hendor's Awesome Ores": true,
